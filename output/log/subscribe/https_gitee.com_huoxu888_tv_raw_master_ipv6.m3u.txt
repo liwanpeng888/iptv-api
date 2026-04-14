@@ -1,0 +1,2539 @@
+#EXTM3U x-tvg-url="http://127.0.0.1/diyp/epg.php"
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K" tvg-logo="" group-title="4K高清",亚洲卫视
+http://192.168.1.7:5678/asiatv.php?id=asiatv
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K" tvg-logo="" group-title="4K高清",北京卫视4K
+http://192.168.1.7:5678/beijing4k.php?id=bjws4k
+#EXTINF:-1 tvg-id="" tvg-name="上海卫视4K" tvg-logo="" group-title="4K高清",上海卫视4K
+http://192.168.1.7:5678/看东方.php?id=2030
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视4K" tvg-logo="" group-title="4K高清",江苏卫视4K
+http://192.168.1.7:5678/jstv.php?id=jsws4k
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视4K" tvg-logo="" group-title="4K高清",江苏卫视4K
+http://192.168.1.7:5678/jsws4k.php?id=jsws4kpro
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视4K" tvg-logo="" group-title="4K高清",浙江卫视4K
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视4K" tvg-logo="" group-title="4K高清",山东卫视4K
+http://192.168.1.7:5678/zgst.php?id=sd4k
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视4K" tvg-logo="" group-title="4K高清",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视4K" tvg-logo="" group-title="4K高清",湖南卫视4K
+http://192.168.1.7:5678/zgst.php?id=hn4k
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视4K" tvg-logo="" group-title="4K高清",广东卫视4K
+http://192.168.1.7:5678/zgst.php?id=gd4k
+#EXTINF:-1 tvg-id="" tvg-name="南国卫视4K" tvg-logo="" group-title="4K高清",南国卫视4K
+http://192.168.1.7:5678/gztv.php?id=nanguodushi
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视4K" tvg-logo="" group-title="4K高清",四川卫视4K
+http://192.168.1.7:5678/四川.php?id=10
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视4K" tvg-logo="" group-title="4K高清",深圳卫视4K
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#EXTINF:-1 tvg-id="" tvg-name="苏州4K" tvg-logo="" group-title="4K高清",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北4K" tvg-logo="" group-title="4K高清",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重温经典HD" tvg-logo="" group-title="4K高清",重温经典HD
+http://112.27.235.94:8000/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重温经典HD" tvg-logo="" group-title="4K高清",重温经典HD
+http://192.168.1.7:5678/重温经典.php?id=cwjd
+#EXTINF:-1 tvg-id="" tvg-name="重温经典HD" tvg-logo="" group-title="4K高清",重温经典HD
+http://192.168.1.7:5678/cwjd.php?id=cwjdHD
+
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="4K高清",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="4K高清",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="4K高清",浙江卫视4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="4K高清",浙江卫视4K
+https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="4K高清",浙江卫视4K
+http://play-qukan.cztv.com/live/1758879019692345.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯台" tvg-logo="" group-title="凤凰卫视",凤凰资讯台
+http://192.168.1.7:5678/fhx.php?id=fhzx
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文台" tvg-logo="" group-title="凤凰卫视",凤凰中文台
+http://192.168.1.7:5678/fhx.php?id=fhzw
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港台" tvg-logo="" group-title="凤凰卫视",凤凰香港台
+http://192.168.1.7:5678/fhx.php?id=fhhk
+#EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="" group-title="凤凰卫视",香港卫视
+https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="" group-title="凤凰卫视",香港卫视
+http://A/ku9/js/hks.js
+#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="" group-title="凤凰卫视",澳门莲花
+http://192.168.1.7:5678/lotustv.php?id=lotustv
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K" tvg-logo="" group-title="北京卫视",北京卫视4K
+http://192.168.1.7:5678/beijing4k.php?id=bjws4k
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="北京卫视",北京卫视
+http://192.168.1.7:5678/beijing4k.php?id=bjws
+#EXTINF:-1 tvg-id="" tvg-name="北京文艺" tvg-logo="" group-title="北京卫视",北京文艺
+http://192.168.1.7:5678/beijing4k.php?id=bjwy
+#EXTINF:-1 tvg-id="" tvg-name="北京科教" tvg-logo="" group-title="北京卫视",北京科教
+http://192.168.1.7:5678/beijing4k.php?id=bjjs
+#EXTINF:-1 tvg-id="" tvg-name="北京影视" tvg-logo="" group-title="北京卫视",北京影视
+http://192.168.1.7:5678/beijing4k.php?id=bjys
+#EXTINF:-1 tvg-id="" tvg-name="北京财经" tvg-logo="" group-title="北京卫视",北京财经
+http://192.168.1.7:5678/beijing4k.php?id=bjcj
+#EXTINF:-1 tvg-id="" tvg-name="北京体育" tvg-logo="" group-title="北京卫视",北京体育
+http://192.168.1.7:5678/beijing4k.php?id=bjty
+#EXTINF:-1 tvg-id="" tvg-name="北京生活" tvg-logo="" group-title="北京卫视",北京生活
+http://192.168.1.7:5678/beijing4k.php?id=bjsh
+#EXTINF:-1 tvg-id="" tvg-name="北京新闻" tvg-logo="" group-title="北京卫视",北京新闻
+http://192.168.1.7:5678/beijing4k.php?id=bjxw
+#EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿" tvg-logo="" group-title="北京卫视",北京卡酷少儿
+http://192.168.1.7:5678/beijing4k.php?id=bjkk
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="北京卫视",北京卫视
+http://192.168.1.7:5678/北京.php?id=bjws
+#EXTINF:-1 tvg-id="" tvg-name="北京纪实科教" tvg-logo="" group-title="北京卫视",北京纪实科教
+http://192.168.1.7:5678/北京.php?id=bjjs
+#EXTINF:-1 tvg-id="" tvg-name="BTV文艺" tvg-logo="" group-title="北京卫视",BTV文艺
+http://192.168.1.7:5678/北京.php?id=btvwy
+#EXTINF:-1 tvg-id="" tvg-name="BTV科教" tvg-logo="" group-title="北京卫视",BTV科教
+http://192.168.1.7:5678/北京.php?id=btvkj
+#EXTINF:-1 tvg-id="" tvg-name="BTV影视" tvg-logo="" group-title="北京卫视",BTV影视
+http://192.168.1.7:5678/北京.php?id=btvys
+#EXTINF:-1 tvg-id="" tvg-name="BTV财经" tvg-logo="" group-title="北京卫视",BTV财经
+http://192.168.1.7:5678/北京.php?id=btvcj
+#EXTINF:-1 tvg-id="" tvg-name="BTV生活" tvg-logo="" group-title="北京卫视",BTV生活
+http://192.168.1.7:5678/北京.php?id=btvsh
+#EXTINF:-1 tvg-id="" tvg-name="BTV青年" tvg-logo="" group-title="北京卫视",BTV青年
+http://192.168.1.7:5678/北京.php?id=btvqn
+#EXTINF:-1 tvg-id="" tvg-name="BTV新闻" tvg-logo="" group-title="北京卫视",BTV新闻
+http://192.168.1.7:5678/北京.php?id=btvxw
+#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="" group-title="北京卫视",卡酷少儿
+http://192.168.1.7:5678/北京.php?id=kaku
+
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="上海卫视",东方卫视
+http://192.168.1.7:5678/看东方.php?id=2030
+#EXTINF:-1 tvg-id="" tvg-name="新闻综合" tvg-logo="" group-title="上海卫视",新闻综合
+http://192.168.1.7:5678/看东方.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="都市频道" tvg-logo="" group-title="上海卫视",都市频道
+http://192.168.1.7:5678/看东方.php?id=18
+#EXTINF:-1 tvg-id="" tvg-name="新纪实" tvg-logo="" group-title="上海卫视",新纪实
+http://192.168.1.7:5678/看东方.php?id=1600
+#EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="" group-title="上海卫视",五星体育
+http://192.168.1.7:5678/看东方.php?id=1605
+#EXTINF:-1 tvg-id="" tvg-name="魔都眼" tvg-logo="" group-title="上海卫视",魔都眼
+http://192.168.1.7:5678/看东方.php?id=1601
+#EXTINF:-1 tvg-id="" tvg-name="爱上海" tvg-logo="" group-title="上海卫视",爱上海
+http://192.168.1.7:5678/看东方.php?id=2029
+#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="" group-title="上海卫视",第一财经
+http://192.168.1.7:5678/看东方.php?id=21
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视4k" tvg-logo="" group-title="深圳卫视频道",深圳卫视4K
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="深圳卫视频道",深圳卫视
+http://nn.7x9d.cn/深圳最新.php?id=szws
+#EXTINF:-1 tvg-id="" tvg-name="都市频道" tvg-logo="" group-title="深圳卫视频道",都市频道
+http://nn.7x9d.cn/深圳最新.php?id=szds
+#EXTINF:-1 tvg-id="" tvg-name="电视剧频道" tvg-logo="" group-title="深圳卫视频道",电视剧频道
+http://nn.7x9d.cn/深圳最新.php?id=szdsj
+#EXTINF:-1 tvg-id="" tvg-name="财经频道" tvg-logo="" group-title="深圳卫视频道",财经频道
+http://nn.7x9d.cn/深圳最新.php?id=szcj
+#EXTINF:-1 tvg-id="" tvg-name="少儿频道" tvg-logo="" group-title="深圳卫视频道",少儿频道
+http://nn.7x9d.cn/深圳最新.php?id=szse
+#EXTINF:-1 tvg-id="" tvg-name="移动电视" tvg-logo="" group-title="深圳卫视频道",移动电视
+http://nn.7x9d.cn/深圳最新.php?id=szyd
+#EXTINF:-1 tvg-id="" tvg-name="宜和购物频道" tvg-logo="" group-title="深圳卫视频道",宜和购物频道
+http://nn.7x9d.cn/深圳最新.php?id=szyh
+#EXTINF:-1 tvg-id="" tvg-name="国际频道" tvg-logo="" group-title="深圳卫视频道",国际频道
+http://nn.7x9d.cn/深圳最新.php?id=szgj
+#EXTINF:-1 tvg-id="" tvg-name="国学频道" tvg-logo="" group-title="河南卫视",国学频道
+http://192.168.1.7:5678/河南地方.php?id=gxpd
+#EXTINF:-1 tvg-id="" tvg-name="移动戏曲" tvg-logo="" group-title="河南卫视",移动戏曲
+http://192.168.1.7:5678/河南地方.php?id=ydxj
+#EXTINF:-1 tvg-id="" tvg-name="焦作综合" tvg-logo="" group-title="河南卫视",焦作综合
+http://192.168.1.7:5678/河南地方.php?id=jz1
+#EXTINF:-1 tvg-id="" tvg-name="郑州综合" tvg-logo="" group-title="河南卫视",郑州综合
+http://192.168.1.7:5678/河南地方.php?id=zz1
+#EXTINF:-1 tvg-id="" tvg-name="开封综合" tvg-logo="" group-title="河南卫视",开封综合
+http://192.168.1.7:5678/河南地方.php?id=kf1
+#EXTINF:-1 tvg-id="" tvg-name="洛阳综合" tvg-logo="" group-title="河南卫视",洛阳综合
+http://192.168.1.7:5678/河南地方.php?id=ly1
+#EXTINF:-1 tvg-id="" tvg-name="鹤壁综合" tvg-logo="" group-title="河南卫视",鹤壁综合
+http://192.168.1.7:5678/河南地方.php?id=hb1
+#EXTINF:-1 tvg-id="" tvg-name="安阳综合" tvg-logo="" group-title="河南卫视",安阳综合
+http://192.168.1.7:5678/河南地方.php?id=ay1
+#EXTINF:-1 tvg-id="" tvg-name="新乡综合" tvg-logo="" group-title="河南卫视",新乡综合
+http://192.168.1.7:5678/河南地方.php?id=xx1
+#EXTINF:-1 tvg-id="" tvg-name="濮阳综合" tvg-logo="" group-title="河南卫视",濮阳综合
+http://192.168.1.7:5678/河南地方.php?id=py1
+#EXTINF:-1 tvg-id="" tvg-name="许昌综合" tvg-logo="" group-title="河南卫视",许昌综合
+http://192.168.1.7:5678/河南地方.php?id=xc1
+#EXTINF:-1 tvg-id="" tvg-name="漯河综合" tvg-logo="" group-title="河南卫视",漯河综合
+http://192.168.1.7:5678/河南地方.php?id=lh1
+#EXTINF:-1 tvg-id="" tvg-name="三门峡综合" tvg-logo="" group-title="河南卫视",三门峡综合
+http://192.168.1.7:5678/河南地方.php?id=smx1
+#EXTINF:-1 tvg-id="" tvg-name="南阳综合" tvg-logo="" group-title="河南卫视",南阳综合
+http://192.168.1.7:5678/河南地方.php?id=ny1
+#EXTINF:-1 tvg-id="" tvg-name="商丘综合" tvg-logo="" group-title="河南卫视",商丘综合
+http://192.168.1.7:5678/河南地方.php?id=sq1
+#EXTINF:-1 tvg-id="" tvg-name="信阳综合" tvg-logo="" group-title="河南卫视",信阳综合
+http://192.168.1.7:5678/河南地方.php?id=xy1
+#EXTINF:-1 tvg-id="" tvg-name="周口综合" tvg-logo="" group-title="河南卫视",周口综合
+http://192.168.1.7:5678/河南地方.php?id=zk1
+#EXTINF:-1 tvg-id="" tvg-name="驻马店综合" tvg-logo="" group-title="河南卫视",驻马店综合
+http://192.168.1.7:5678/河南地方.php?id=zmd1
+#EXTINF:-1 tvg-id="" tvg-name="济源综合" tvg-logo="" group-title="河南卫视",济源综合
+http://192.168.1.7:5678/河南地方.php?id=jy1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="极直播",CCTV1
+http://192.168.1.7:5678/jzb.php?id=cctv1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="极直播",CCTV2
+http://192.168.1.7:5678/jzb.php?id=cctv2
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="极直播",CCTV3
+http://192.168.1.7:5678/jzb.php?id=cctv3
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="极直播",CCTV4
+http://192.168.1.7:5678/jzb.php?id=cctv4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4亚洲" tvg-logo="" group-title="极直播",CCTV4亚洲
+http://192.168.1.7:5678/jzb.php?id=cctv4a
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="" group-title="极直播",CCTV4欧洲
+http://192.168.1.7:5678/jzb.php?id=cctv4o
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="极直播",CCTV5
+http://192.168.1.7:5678/jzb.php?id=cctv5
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="极直播",CCTV5+
+http://192.168.1.7:5678/jzb.php?id=cctv5p
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="极直播",CCTV6
+http://192.168.1.7:5678/jzb.php?id=cctv6
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="极直播",CCTV7
+http://192.168.1.7:5678/jzb.php?id=cctv7
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="极直播",CCTV8
+http://192.168.1.7:5678/jzb.php?id=cctv8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="极直播",CCTV9
+http://192.168.1.7:5678/jzb.php?id=cctv9
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="极直播",CCTV10
+http://192.168.1.7:5678/jzb.php?id=cctv10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="极直播",CCTV11
+http://192.168.1.7:5678/jzb.php?id=cctv11
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="极直播",CCTV12
+http://192.168.1.7:5678/jzb.php?id=cctv12
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="极直播",CCTV13
+http://192.168.1.7:5678/jzb.php?id=cctv13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="极直播",CCTV14
+http://192.168.1.7:5678/jzb.php?id=cctv14
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="极直播",CCTV15
+http://192.168.1.7:5678/jzb.php?id=cctv15
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="" group-title="极直播",CCTV17
+http://192.168.1.7:5678/jzb.php?id=cctv17
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="极直播",北京卫视
+http://192.168.1.7:5678/jzb.php?id=bjws
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="极直播",东方卫视
+http://192.168.1.7:5678/jzb.php?id=dfws
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="极直播",天津卫视
+http://192.168.1.7:5678/jzb.php?id=tjws
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="极直播",黑龙江卫视
+http://192.168.1.7:5678/jzb.php?id=hljws
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="极直播",吉林卫视
+http://192.168.1.7:5678/jzb.php?id=jlws
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="极直播",辽宁卫视
+http://192.168.1.7:5678/jzb.php?id=lnws
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="极直播",广东卫视
+http://192.168.1.7:5678/jzb.php?id=gdws
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="极直播",青海卫视
+http://192.168.1.7:5678/jzb.php?id=qhws
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="极直播",陕西卫视
+http://192.168.1.7:5678/jzb.php?id=sxws
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="极直播",河北卫视
+http://192.168.1.7:5678/jzb.php?id=hbws
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="极直播",山西卫视
+http://192.168.1.7:5678/jzb.php?id=sxiws
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="极直播",山东卫视
+http://192.168.1.7:5678/jzb.php?id=sdws
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="极直播",安徽卫视
+http://192.168.1.7:5678/jzb.php?id=ahws
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="极直播",河南卫视
+http://192.168.1.7:5678/jzb.php?id=hnws
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="极直播",湖北卫视
+http://192.168.1.7:5678/jzb.php?id=hubws
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="极直播",湖南卫视
+http://192.168.1.7:5678/jzb.php?id=hunws
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="极直播",江西卫视
+http://192.168.1.7:5678/jzb.php?id=jxws
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="极直播",浙江卫视
+http://192.168.1.7:5678/jzb.php?id=zjws
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="" group-title="极直播",东南卫视
+http://192.168.1.7:5678/jzb.php?id=dnws
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="极直播",深圳卫视
+http://192.168.1.7:5678/jzb.php?id=szws
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="极直播",广西卫视
+http://192.168.1.7:5678/jzb.php?id=gxws
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="极直播",贵州卫视
+http://192.168.1.7:5678/jzb.php?id=gzws
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="极直播",四川卫视
+http://192.168.1.7:5678/jzb.php?id=scws
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="极直播",新疆卫视
+http://192.168.1.7:5678/jzb.php?id=xjws
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="" group-title="极直播",海南卫视
+http://192.168.1.7:5678/jzb.php?id=hinws
+
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视4K" tvg-logo="" group-title="四川卫视",四川卫视4K
+http://192.168.1.7:5678/四川.php?id=10
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="四川卫视",四川卫视
+http://192.168.1.7:5678/四川.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="" group-title="四川卫视",四川新闻
+http://192.168.1.7:5678/四川.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="四川经济" tvg-logo="" group-title="四川卫视",四川经济
+http://192.168.1.7:5678/四川.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="" group-title="四川卫视",四川文化旅游
+http://192.168.1.7:5678/四川.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="" group-title="四川卫视",四川影视文艺
+http://192.168.1.7:5678/四川.php?id=5
+#EXTINF:-1 tvg-id="" tvg-name="四川妇女儿童" tvg-logo="" group-title="四川卫视",四川妇女儿童
+http://192.168.1.7:5678/四川.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="四川星空购物" tvg-logo="" group-title="四川卫视",四川星空购物
+http://192.168.1.7:5678/四川.php?id=7
+#EXTINF:-1 tvg-id="" tvg-name="四川乡村" tvg-logo="" group-title="四川卫视",四川乡村
+http://192.168.1.7:5678/四川.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="" group-title="四川卫视",康巴卫视
+http://192.168.1.7:5678/四川.php?id=9
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视4K" tvg-logo="" group-title="四川卫视",四川卫视4K
+http://192.168.1.7:5678/四川.php?id=10
+
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="四川卫视",四川卫视
+http://192.168.1.7:5678/sichuan.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="" group-title="四川卫视",四川新闻
+http://192.168.1.7:5678/sichuan.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="四川经济" tvg-logo="" group-title="四川卫视",四川经济
+http://192.168.1.7:5678/sichuan.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="" group-title="四川卫视",四川文化旅游
+http://192.168.1.7:5678/sichuan.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="四川影视文艺" tvg-logo="" group-title="四川卫视",四川影视文艺
+http://192.168.1.7:5678/sichuan.php?id=5
+#EXTINF:-1 tvg-id="" tvg-name="四川妇女儿童" tvg-logo="" group-title="四川卫视",四川妇女儿童
+http://192.168.1.7:5678/sichuan.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="四川乡村" tvg-logo="" group-title="四川卫视",四川乡村
+http://192.168.1.7:5678/sichuan.php?id=8
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="" group-title="四川卫视",康巴卫视
+http://192.168.1.7:5678/sichuan.php?id=9
+
+#EXTINF:-1 tvg-id="" tvg-name="成都新闻" tvg-logo="" group-title="四川卫视",成都新闻
+http://192.168.1.7:5678/chengdu.php?id=cdtv1
+
+#EXTINF:-1 tvg-id="" tvg-name="成都经济" tvg-logo="" group-title="四川卫视",成都经济
+http://192.168.1.7:5678/chengdu.php?id=cdtv2
+
+#EXTINF:-1 tvg-id="" tvg-name="成都生活" tvg-logo="" group-title="四川卫视",成都生活
+http://192.168.1.7:5678/chengdu.php?id=cdtv3
+
+#EXTINF:-1 tvg-id="" tvg-name="成都影视" tvg-logo="" group-title="四川卫视",成都影视
+http://192.168.1.7:5678/chengdu.php?id=cdtv4
+
+#EXTINF:-1 tvg-id="" tvg-name="成都公共" tvg-logo="" group-title="四川卫视",成都公共
+http://192.168.1.7:5678/chengdu.php?id=cdtv5
+
+#EXTINF:-1 tvg-id="" tvg-name="成都少儿" tvg-logo="" group-title="四川卫视",成都少儿
+http://192.168.1.7:5678/chengdu.php?id=cdtv6
+
+#EXTINF:-1 tvg-id="" tvg-name="成都蓉城" tvg-logo="" group-title="四川卫视",成都蓉城
+http://192.168.1.7:5678/chengdu.php?id=cdrcxf
+
+#EXTINF:-1 tvg-id="" tvg-name="成华有线电视" tvg-logo="" group-title="四川卫视",成华有线电视
+http://192.168.1.7:5678/chengdu.php?id=chyx
+
+#EXTINF:-1 tvg-id="" tvg-name="崇州电视台" tvg-logo="" group-title="四川卫视",崇州电视台
+http://192.168.1.7:5678/chengdu.php?id=cztv
+
+#EXTINF:-1 tvg-id="" tvg-name="都江堰电视台" tvg-logo="" group-title="四川卫视",都江堰电视台
+http://192.168.1.7:5678/chengdu.php?id=djytv
+
+#EXTINF:-1 tvg-id="" tvg-name="大邑广播电视台" tvg-logo="" group-title="四川卫视",大邑广播电视台
+http://192.168.1.7:5678/chengdu.php?id=dytv
+
+#EXTINF:-1 tvg-id="" tvg-name="高新区电视台" tvg-logo="" group-title="四川卫视",高新区电视台
+http://192.168.1.7:5678/chengdu.php?id=gxtv
+
+#EXTINF:-1 tvg-id="" tvg-name="锦江区电视台" tvg-logo="" group-title="四川卫视",锦江区电视台
+http://192.168.1.7:5678/chengdu.php?id=jjtv
+
+#EXTINF:-1 tvg-id="" tvg-name="金牛区有线电视台" tvg-logo="" group-title="四川卫视",金牛区有线电视台
+http://192.168.1.7:5678/chengdu.php?id=jntv
+
+#EXTINF:-1 tvg-id="" tvg-name="金堂电视台" tvg-logo="" group-title="四川卫视",金堂电视台
+http://192.168.1.7:5678/chengdu.php?id=jttv
+
+#EXTINF:-1 tvg-id="" tvg-name="成都简阳电视台" tvg-logo="" group-title="四川卫视",成都简阳电视台
+http://192.168.1.7:5678/chengdu.php?id=jyxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="成都龙泉电视台" tvg-logo="" group-title="四川卫视",成都龙泉电视台
+http://192.168.1.7:5678/chengdu.php?id=lqzh
+
+#EXTINF:-1 tvg-id="" tvg-name="郫都广播电视台" tvg-logo="" group-title="四川卫视",郫都广播电视台
+http://192.168.1.7:5678/chengdu.php?id=pdxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="蒲江电视台" tvg-logo="" group-title="四川卫视",蒲江电视台
+http://192.168.1.7:5678/chengdu.php?id=pjtv
+
+#EXTINF:-1 tvg-id="" tvg-name="彭州市广播电视台" tvg-logo="" group-title="四川卫视",彭州市广播电视台
+http://192.168.1.7:5678/chengdu.php?id=pztv
+
+#EXTINF:-1 tvg-id="" tvg-name="青白江融媒体中心" tvg-logo="" group-title="四川卫视",青白江融媒体中心
+http://192.168.1.7:5678/chengdu.php?id=qbjtv
+
+#EXTINF:-1 tvg-id="" tvg-name="邛崃电视台综合频道" tvg-logo="" group-title="四川卫视",邛崃电视台综合频道
+http://192.168.1.7:5678/chengdu.php?id=qltv
+
+#EXTINF:-1 tvg-id="" tvg-name="青羊区融媒体中心" tvg-logo="" group-title="四川卫视",青羊区融媒体中心
+http://192.168.1.7:5678/chengdu.php?id=qytv
+
+#EXTINF:-1 tvg-id="" tvg-name="双流区广播电视台" tvg-logo="" group-title="四川卫视",双流区广播电视台
+http://192.168.1.7:5678/chengdu.php?id=slzh
+
+#EXTINF:-1 tvg-id="" tvg-name="武侯区电视台" tvg-logo="" group-title="四川卫视",武侯区电视台
+http://192.168.1.7:5678/chengdu.php?id=whtv
+
+#EXTINF:-1 tvg-id="" tvg-name="温江电视台" tvg-logo="" group-title="四川卫视",温江电视台
+http://192.168.1.7:5678/chengdu.php?id=wjtv
+
+#EXTINF:-1 tvg-id="" tvg-name="新都区广播电视台" tvg-logo="" group-title="四川卫视",新都区广播电视台
+http://192.168.1.7:5678/chengdu.php?id=xdtv
+
+#EXTINF:-1 tvg-id="" tvg-name="成都新津电视台" tvg-logo="" group-title="四川卫视",成都新津电视台
+http://192.168.1.7:5678/chengdu.php?id=xjtv
+
+#EXTINF:-1 tvg-id="" tvg-name="成都简阳新闻综合" tvg-logo="" group-title="四川卫视",成都简阳新闻综合
+http://192.168.1.7:5678/scws.php?id=cd_jy1
+#EXTINF:-1 tvg-id="" tvg-name="绵阳江油新闻综合" tvg-logo="" group-title="四川卫视",绵阳江油新闻综合
+http://192.168.1.7:5678/scws.php?id=my_jy1
+#EXTINF:-1 tvg-id="" tvg-name="绵阳北川综合" tvg-logo="" group-title="四川卫视",绵阳北川综合
+http://192.168.1.7:5678/scws.php?id=my_bc1
+#EXTINF:-1 tvg-id="" tvg-name="绵阳盐亭综合" tvg-logo="" group-title="四川卫视",绵阳盐亭综合
+http://192.168.1.7:5678/scws.php?id=my_yt1
+#EXTINF:-1 tvg-id="" tvg-name="绵阳梓潼综合" tvg-logo="" group-title="四川卫视",绵阳梓潼综合
+http://192.168.1.7:5678/scws.php?id=my_zt1
+#EXTINF:-1 tvg-id="" tvg-name="阿坝新闻综合" tvg-logo="" group-title="四川卫视",阿坝新闻综合
+http://192.168.1.7:5678/scws.php?id=ab1
+#EXTINF:-1 tvg-id="" tvg-name="阿坝藏语综合" tvg-logo="" group-title="四川卫视",阿坝藏语综合
+http://192.168.1.7:5678/scws.php?id=ab2
+#EXTINF:-1 tvg-id="" tvg-name="阿坝若尔盖综合" tvg-logo="" group-title="四川卫视",阿坝若尔盖综合
+http://192.168.1.7:5678/scws.php?id=ab_reg1
+#EXTINF:-1 tvg-id="" tvg-name="内江东兴新闻" tvg-logo="" group-title="四川卫视",内江东兴新闻
+http://192.168.1.7:5678/scws.php?id=nj_dx1
+#EXTINF:-1 tvg-id="" tvg-name="内江资中综合" tvg-logo="" group-title="四川卫视",内江资中综合
+http://192.168.1.7:5678/scws.php?id=nj_zz1
+#EXTINF:-1 tvg-id="" tvg-name="德阳广汉综合" tvg-logo="" group-title="四川卫视",德阳广汉综合
+http://192.168.1.7:5678/scws.php?id=dy_gh1
+#EXTINF:-1 tvg-id="" tvg-name="凉山冕宁电视" tvg-logo="" group-title="四川卫视",凉山冕宁电视
+http://192.168.1.7:5678/scws.php?id=ls_mn1
+#EXTINF:-1 tvg-id="" tvg-name="广安邻水综合" tvg-logo="" group-title="四川卫视",广安邻水综合
+http://192.168.1.7:5678/scws.php?id=ga_ls1
+#EXTINF:-1 tvg-id="" tvg-name="广安武胜综合" tvg-logo="" group-title="四川卫视",广安武胜综合
+http://192.168.1.7:5678/scws.php?id=ga_ws1
+#EXTINF:-1 tvg-id="" tvg-name="眉山丹棱综合" tvg-logo="" group-title="四川卫视",眉山丹棱综合
+http://192.168.1.7:5678/scws.php?id=ms_dl1
+#EXTINF:-1 tvg-id="" tvg-name="遂宁蓬溪新闻综合" tvg-logo="" group-title="四川卫视",遂宁蓬溪新闻综合
+http://192.168.1.7:5678/scws.php?id=sn_px1
+#EXTINF:-1 tvg-id="" tvg-name="南充综合" tvg-logo="" group-title="四川卫视",南充综合
+http://192.168.1.7:5678/scws.php?id=nc1
+#EXTINF:-1 tvg-id="" tvg-name="南充科教生活" tvg-logo="" group-title="四川卫视",南充科教生活
+http://192.168.1.7:5678/scws.php?id=nc2
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" tvg-logo="" group-title="安徽频道",安徽综艺体育
+http://192.168.1.7:5678/ahws.php?id=ahzyty#http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="" group-title="安徽频道",安徽公共
+http://192.168.1.7:5678/ahws.php?id=ahgg#http://203.205.191.53/live.ahsx.ahtv.cn/live/ggtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽农业科教" tvg-logo="" group-title="安徽频道",安徽农业科教
+http://192.168.1.7:5678/ahws.php?id=ahnykj#http://203.205.191.53/live.ahsx.ahtv.cn/live/nykjtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际" tvg-logo="" group-title="安徽频道",安徽国际
+http://192.168.1.7:5678/ahws.php?id=ahgj#http://203.205.191.53/live.ahsx.ahtv.cn/live/gjtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽移动" tvg-logo="" group-title="安徽频道",安徽移动
+http://192.168.1.7:5678/ahws.php?id=ahyd
+#EXTINF:-1 tvg-id="" tvg-name="安徽生活频道" tvg-logo="" group-title="安徽频道",安徽生活频道
+http://192.168.1.7:5678/ahsx.php?id=ahsh
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视频道" tvg-logo="" group-title="安徽频道",安徽影视频道
+http://192.168.1.7:5678/ahsx.php?id=ahys
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺频道" tvg-logo="" group-title="安徽频道",安徽综艺频道
+http://192.168.1.7:5678/ahsx.php?id=ahzy
+#EXTINF:-1 tvg-id="" tvg-name="淮南新闻综合" tvg-logo="" group-title="安徽频道",淮南新闻综合
+http://192.168.1.7:5678/ahsx.php?id=hnzh
+#EXTINF:-1 tvg-id="" tvg-name="萧县综合频道" tvg-logo="" group-title="安徽频道",萧县综合频道
+http://192.168.1.7:5678/ahsx.php?id=pxzh
+#EXTINF:-1 tvg-id="" tvg-name="太湖新闻综合" tvg-logo="" group-title="安徽频道",太湖新闻综合
+http://192.168.1.7:5678/ahsx.php?id=thzh
+#EXTINF:-1 tvg-id="" tvg-name="广德生活频道" tvg-logo="" group-title="安徽频道",广德生活频道
+http://192.168.1.7:5678/ahsx.php?id=gdsh
+#EXTINF:-1 tvg-id="" tvg-name="广德新闻信合" tvg-logo="" group-title="安徽频道",广德新闻信合
+http://192.168.1.7:5678/ahsx.php?id=gdxw
+#EXTINF:-1 tvg-id="" tvg-name="蒙城新闻" tvg-logo="" group-title="安徽频道",蒙城新闻
+http://192.168.1.7:5678/ahsx.php?id=mcxw
+#EXTINF:-1 tvg-id="" tvg-name="岳西新闻综合" tvg-logo="" group-title="安徽频道",岳西新闻综合
+http://192.168.1.7:5678/ahsx.php?id=yxxw
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="" group-title="安徽频道",安徽影视
+http://203.205.191.53/live.ahsx.ahtv.cn/live/ystv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="" group-title="安徽频道",安徽经济生活
+http://203.205.191.53/live.ahsx.ahtv.cn/live/jjshtv.m3u8
+
+#EXTINF:-1 tvg-id="wuhu1" tvg-name="芜湖新闻综合" tvg-logo="" group-title="安徽频道",芜湖新闻综合
+http://192.168.1.7:5678/wuhu.php?id=7
+#EXTINF:-1 tvg-id="wuhu2" tvg-name="芜湖生活频道" tvg-logo="" group-title="安徽频道",芜湖生活频道
+http://192.168.1.7:5678/wuhu.php?id=9
+
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" tvg-logo="" group-title="安徽广播",安徽综艺体育频道
+http://192.168.1.7:5678/ahtv.php?id=zyty1
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际" tvg-logo="" group-title="安徽广播",安徽国际频道
+http://192.168.1.7:5678/ahtv.php?id=ahgj1
+#EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="" group-title="安徽广播",安徽经济生活频道
+http://192.168.1.7:5678/ahtv.php?id=jjsh1
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="安徽广播",安徽卫视
+http://192.168.1.7:5678/ahtv.php?id=ahws
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="" group-title="安徽广播",安徽影视频道
+http://192.168.1.7:5678/ahtv.php?id=yspd1
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="" group-title="安徽广播",安徽公共频道
+http://192.168.1.7:5678/ahtv.php?id=ahgg
+#EXTINF:-1 tvg-id="" tvg-name="安徽科教" tvg-logo="" group-title="安徽广播",安徽科教频道
+http://192.168.1.7:5678/ahtv.php?id=kjpd
+#EXTINF:-1 tvg-id="" tvg-name="安徽广播电视" tvg-logo="" group-title="安徽广播",安徽广播电视
+http://192.168.1.7:5678/ahtv.php?id=ydds1
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" tvg-logo="" group-title="安徽移动",安徽综艺体育频道
+http://192.168.1.7:5678/ahtv.php?id=zyty1
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际" tvg-logo="" group-title="安徽移动",安徽国际频道
+http://192.168.1.7:5678/ahtv.php?id=ahgj1
+#EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="" group-title="安徽移动",安徽经济生活频道
+http://192.168.1.7:5678/ahtv.php?id=jjsh1
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="安徽移动",安徽卫视
+http://192.168.1.7:5678/ahtv.php?id=ahws#http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="" group-title="安徽移动",安徽影视频道
+http://192.168.1.7:5678/ahtv.php?id=yspd1
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="" group-title="安徽移动",安徽公共频道
+http://192.168.1.7:5678/ahtv.php?id=ahgg
+#EXTINF:-1 tvg-id="" tvg-name="安徽科教" tvg-logo="" group-title="安徽移动",安徽科教频道
+http://192.168.1.7:5678/ahtv.php?id=kjpd
+#EXTINF:-1 tvg-id="" tvg-name="安徽移动电视" tvg-logo="" group-title="安徽移动",安徽移动电视
+http://192.168.1.7:5678/ahtv.php?id=ydds1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="安徽移动",CCTV1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="安徽移动",CCTV2
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="安徽移动",CCTV3
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="安徽移动",CCTV4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="安徽移动",CCTV5
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="安徽移动",CCTV5+
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="安徽移动",CCTV6
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="安徽移动",CCTV7
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="安徽移动",CCTV8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="安徽移动",CCTV9
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="安徽移动",CCTV10
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="安徽移动",CCTV11
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="安徽移动",CCTV12
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="安徽移动",CCTV13
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="安徽移动",CCTV14
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="安徽移动",CCTV15
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="" group-title="安徽移动",CCTV16
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="" group-title="安徽移动",CCTV17
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV电视指南
+http://120.210.193.151:8006/120000001002/XMTdszn/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV文化精品
+http://120.210.193.151:8006/120000001002/XMTysjp/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV女性时尚
+http://120.210.193.151:8006/120000001002/XMTnxss/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV兵器科技
+http://120.210.193.151:8006/120000001002/XMTbqsd/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV风云足球
+http://120.210.193.151:8006/120000001002/XMTfyzq/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV高尔夫·网球
+http://120.210.193.151:8006/120000001002/XMTgolf/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV央视台球
+http://120.210.193.151:8006/120000001002/XMTystq/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV世界地理
+http://120.210.193.151:8006/120000001002/XMTsjdl/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV怀旧剧场
+http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV风云剧场
+http://120.210.193.151:8006/120000001002/XMTfyjc/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV第一剧场
+http://120.210.193.151:8006/120000001002/XMTdyjc/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="安徽移动",CCTV风云音乐
+http://120.210.193.151:8006/120000001002/XMTfyyy/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="" group-title="安徽移动",安徽经济生活
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="" group-title="安徽移动",安徽影视
+http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="" group-title="安徽移动",安徽公共
+http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" tvg-logo="" group-title="安徽移动",安徽综艺体育
+http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽农业科教" tvg-logo="" group-title="安徽移动",安徽农业科教
+http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽国际" tvg-logo="" group-title="安徽移动",安徽国际
+http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="安徽移动",湖南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="安徽移动",东方卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="安徽移动",北京卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/bjwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="安徽移动",浙江卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="安徽移动",江苏卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="安徽移动",天津卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="安徽移动",山东卫视
+http://120.210.193.151:8006/120000001002/XMTsdwshd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="安徽移动",辽宁卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/lnwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="安徽移动",深圳卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="安徽移动",江西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="安徽移动",贵州卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="安徽移动",吉林卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jlwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="安徽移动",广东卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="安徽移动",湖北卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hubeiws8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="安徽移动",河北卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hbws/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="安徽移动",山西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shanxiws/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="" group-title="安徽移动",重庆卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cqws8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="安徽移动",四川卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="安徽移动",广西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gxwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="安徽移动",陕西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="安徽移动",甘肃卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gswssd4m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="安徽移动",宁夏卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nxwssd4m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="安徽移动",青海卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/qhwssd4m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="" group-title="安徽移动",旅游卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hainanwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="安徽移动",新疆卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xjwssd4m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="安徽移动",兵团卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/btwssd4m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="安徽移动",黑龙江卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="安徽移动",云南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ynwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="" group-title="安徽移动",东南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="安徽移动",河南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="" group-title="安徽移动",厦门卫视
+http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="" group-title="安徽移动",三沙卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sswshd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="" group-title="安徽移动",内蒙古卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金色学堂" tvg-logo="" group-title="安徽移动",金色学堂
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="" group-title="安徽移动",金鹰卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="" group-title="安徽移动",动漫秀场
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卡酷卡通" tvg-logo="" group-title="安徽移动",卡酷卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="" group-title="安徽移动",哈哈炫动
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="" group-title="安徽移动",嘉佳卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="" group-title="安徽移动",CHC家庭影院
+http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="安徽移动",CHC动作电影
+http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="" group-title="安徽移动",CHC高清电影
+http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="" group-title="安徽移动",CETV1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV2" tvg-logo="" group-title="安徽移动",CETV2
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cetv2hd4mc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="" group-title="安徽移动",CETV4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy4hd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="梨园频道" tvg-logo="" group-title="安徽移动",梨园频道
+http://120.210.193.151:8006/120000001002/XMTliyuan/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="文物宝库" tvg-logo="" group-title="安徽移动",文物宝库
+http://120.210.193.151:8006/120000001002/XMTwenwu/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="武术世界" tvg-logo="" group-title="安徽移动",武术世界
+http://120.210.193.151:8006/120000001002/XMTwushu/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="" group-title="安徽移动",都市剧场
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="" group-title="安徽移动",法治天地
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="" group-title="安徽移动",生活时尚
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睛彩篮球" tvg-logo="" group-title="安徽移动",睛彩篮球
+http://120.210.193.151:8006/000000001001/3000000020000011529/3000000020000011529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睛彩竞技" tvg-logo="" group-title="安徽移动",睛彩竞技
+http://120.210.193.151:8006/000000001001/3000000020000011528/3000000020000011528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睛彩青少" tvg-logo="" group-title="安徽移动",睛彩青少
+http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睛彩广场舞" tvg-logo="" group-title="安徽移动",睛彩广场舞
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
+#EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="" group-title="安徽移动",中国天气
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="" group-title="安徽移动",CCTV4K
+http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="合肥移动",CCTV-1高清
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="合肥移动",CCTV-2高清
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="合肥移动",CCTV-3高清
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="合肥移动",CCTV-4高清
+http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="合肥移动",CCTV-5高清
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="合肥移动",CCTV-6高清
+http://112.27.235.94:8000/hls/7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="合肥移动",CCTV-7高清
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="合肥移动",CCTV-8高清
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="合肥移动",CCTV-9高清
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="合肥移动",CCTV10高清
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="合肥移动",CCTV11高清
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="合肥移动",CCTV12高清
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="合肥移动",CCTV13高清
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="合肥移动",CCTV14高清
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="合肥移动",CCTV15高清
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="合肥移动",CCTV5+高清
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="肥西新闻综合" tvg-logo="" group-title="合肥移动",肥西新闻综合
+http://112.27.235.94:8000/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="" group-title="合肥移动",安徽经济生活
+http://112.27.235.94:8000/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共高清" tvg-logo="" group-title="合肥移动",安徽公共高清
+http://112.27.235.94:8000/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视高清" tvg-logo="" group-title="合肥移动",安徽影视高清
+http://112.27.235.94:8000/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺体育" tvg-logo="" group-title="合肥移动",安徽综艺体育
+http://112.27.235.94:8000/hls/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视高清" tvg-logo="" group-title="合肥移动",安徽卫视高清
+http://112.27.235.94:8000/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视高清" tvg-logo="" group-title="合肥移动",北京卫视高清
+http://112.27.235.94:8000/hls/27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视高清" tvg-logo="" group-title="合肥移动",东方卫视高清
+http://112.27.235.94:8000/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视高清" tvg-logo="" group-title="合肥移动",浙江卫视高清
+http://112.27.235.94:8000/hls/29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视高清" tvg-logo="" group-title="合肥移动",湖南卫视高清
+http://112.27.235.94:8000/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视高清" tvg-logo="" group-title="合肥移动",江苏卫视高清
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视高清" tvg-logo="" group-title="合肥移动",深圳卫视高清
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视高清" tvg-logo="" group-title="合肥移动",山东卫视高清
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视高清" tvg-logo="" group-title="合肥移动",四川卫视高清
+http://112.27.235.94:8000/hls/35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视高清" tvg-logo="" group-title="合肥移动",重庆卫视高清
+http://112.27.235.94:8000/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视高清" tvg-logo="" group-title="合肥移动",河南卫视高清
+http://112.27.235.94:8000/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视高清" tvg-logo="" group-title="合肥移动",东南卫视高清
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视高清" tvg-logo="" group-title="合肥移动",河北卫视高清
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视高清" tvg-logo="" group-title="合肥移动",云南卫视高清
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视高清" tvg-logo="" group-title="合肥移动",湖北卫视高清
+http://112.27.235.94:8000/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视高清" tvg-logo="" group-title="合肥移动",天津卫视高清
+http://112.27.235.94:8000/hls/42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视高清" tvg-logo="" group-title="合肥移动",陕西卫视高清
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视高清" tvg-logo="" group-title="合肥移动",江西卫视高清
+http://112.27.235.94:8000/hls/44/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视高清" tvg-logo="" group-title="合肥移动",贵州卫视高清
+http://112.27.235.94:8000/hls/46/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视高清" tvg-logo="" group-title="合肥移动",辽宁卫视高清
+http://112.27.235.94:8000/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视高清" tvg-logo="" group-title="合肥移动",黑龙江卫视高清
+http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重温经典高清" tvg-logo="" group-title="合肥移动",重温经典高清
+http://112.27.235.94:8000/hls/50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="合肥新闻" tvg-logo="" group-title="合肥移动",合肥新闻
+http://112.27.235.94:8000/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="合肥生活" tvg-logo="" group-title="合肥移动",合肥生活
+http://112.27.235.94:8000/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="合肥科创" tvg-logo="" group-title="合肥移动",合肥科创
+http://112.27.235.94:8000/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="" group-title="湖南卫视",湖南经视
+http://192.168.1.7:5678/hn.php?id=hnjs
+#EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="" group-title="湖南卫视",湖南娱乐
+http://192.168.1.7:5678/hn.php?id=hnyl
+#EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="" group-title="湖南卫视",湖南都市
+http://192.168.1.7:5678/hn.php?id=hnds
+#EXTINF:-1 tvg-id="" tvg-name="湖南电影" tvg-logo="" group-title="湖南卫视",湖南电影
+http://192.168.1.7:5678/hn.php?id=hndy
+#EXTINF:-1 tvg-id="" tvg-name="湖南电视剧" tvg-logo="" group-title="湖南卫视",湖南电视剧
+http://192.168.1.7:5678/hn.php?id=hndsj
+#EXTINF:-1 tvg-id="" tvg-name="湖南公共" tvg-logo="" group-title="湖南卫视",湖南公共
+http://192.168.1.7:5678/hn.php?id=hngg
+#EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="" group-title="湖南卫视",湖南国际
+http://192.168.1.7:5678/hn.php?id=hngj
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="" group-title="湖南卫视",金鹰纪实
+http://192.168.1.7:5678/hn.php?id=jyjs
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="" group-title="湖南卫视",金鹰卡通
+http://192.168.1.7:5678/hn.php?id=jykt
+#EXTINF:-1 tvg-id="" tvg-name="先锋乒羽" tvg-logo="" group-title="湖南卫视",先锋乒羽
+http://192.168.1.7:5678/hn.php?id=xfpy
+#EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="" group-title="湖南卫视",快乐垂钓
+http://192.168.1.7:5678/hn.php?id=klcd
+#EXTINF:-1 tvg-id="" tvg-name="茶频道" tvg-logo="" group-title="湖南卫视",茶频道
+http://192.168.1.7:5678/hn.php?id=cpd
+#EXTINF:-1 tvg-id="" tvg-name="长沙新闻综合" tvg-logo="" group-title="湖南卫视",长沙新闻综合
+http://192.168.1.7:5678/hn.php?id=csxwzh
+#EXTINF:-1 tvg-id="" tvg-name="长沙政法频道" tvg-logo="" group-title="湖南卫视",长沙政法频道
+http://192.168.1.7:5678/hn.php?id=cszfpd
+#EXTINF:-1 tvg-id="" tvg-name="长沙女性频道" tvg-logo="" group-title="湖南卫视",长沙女性频道
+http://192.168.1.7:5678/hn.php?id=csnxpd
+
+#EXTINF:-1 group-title="湖南卫视",茶陵新闻综合
+http://192.168.1.7:5678/hnhw.php?id=1642
+#EXTINF:-1 group-title="湖南卫视",韶山综合
+http://192.168.1.7:5678/hnhw.php?id=1760
+#EXTINF:-1 group-title="湖南卫视",湘潭县电视台
+http://192.168.1.7:5678/hnhw.php?id=1102
+#EXTINF:-1 group-title="湖南卫视",南岳电视台
+http://192.168.1.7:5678/hnhw.php?id=1817
+#EXTINF:-1 group-title="湖南卫视",洪江综合
+http://192.168.1.7:5678/hnhw.php?id=2510
+#EXTINF:-1 group-title="湖南卫视",溆浦综合
+http://192.168.1.7:5678/hnhw.php?id=1916
+#EXTINF:-1 group-title="湖南卫视",沅陵综合
+http://192.168.1.7:5678/hnhw.php?id=4860
+#EXTINF:-1 group-title="湖南卫视",云溪新闻综合
+http://192.168.1.7:5678/hnhw.php?id=1603
+#EXTINF:-1 group-title="湖南卫视",资兴台
+http://192.168.1.7:5678/hnhw.php?id=2329
+#EXTINF:-1 group-title="湖南卫视",新田综合
+http://192.168.1.7:5678/hnhw.php?id=3160
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="深圳天威视讯",CCTV1
+http://121.37.185.74:18180/TV00000000000000000001@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="深圳天威视讯",CCTV2
+http://121.37.185.74:18180/TV00000000000000000003@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="深圳天威视讯",CCTV3
+http://121.37.185.74:18180/TV00000000000000000004@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="深圳天威视讯",CCTV4
+http://121.37.185.74:18180/TV00000000000000000005@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="深圳天威视讯",CCTV5
+http://121.37.185.74:18180/TV00000000000000000006@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="深圳天威视讯",CCTV5+
+http://121.37.185.74:18180/TV00000000000000000038@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="深圳天威视讯",CCTV6
+http://121.37.185.74:18180/TV00000000000000000007@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="深圳天威视讯",CCTV7
+http://121.37.185.74:18180/TV00000000000000000008@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="深圳天威视讯",CCTV8
+http://121.37.185.74:18180/TV00000000000000000009@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="深圳天威视讯",CCTV9
+http://121.37.185.74:18180/TV00000000000000000010@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="深圳天威视讯",CCTV10
+http://121.37.185.74:18180/TV00000000000000000011@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="深圳天威视讯",CCTV11
+http://121.37.185.74:18180/TV00000000000000000012@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="深圳天威视讯",CCTV12
+http://121.37.185.74:18180/TV00000000000000000013@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="深圳天威视讯",CCTV13
+http://121.37.185.74:18180/TV00000000000000000014@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="深圳天威视讯",CCTV14
+http://121.37.185.74:18180/TV00000000000000000015@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="深圳天威视讯",CCTV15
+http://121.37.185.74:18180/TV00000000000000000016@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="" group-title="深圳天威视讯",CCTV17
+http://121.37.185.74:18180/TV00000000000000000018@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="" group-title="深圳天威视讯",CGTN
+http://121.37.185.74:18180/TV00000000000000000017@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="河源综合" tvg-logo="" group-title="深圳天威视讯",河源综合
+http://121.37.185.74:18180/TV00000000000000000019@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="河源公共" tvg-logo="" group-title="深圳天威视讯",河源公共
+http://121.37.185.74:18180/TV00000000000000000020@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="" group-title="深圳天威视讯",广东民生
+http://121.37.185.74:18180/TV00000000000000000021@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="" group-title="深圳天威视讯",广东珠江
+http://121.37.185.74:18180/TV00000000000000000022@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="" group-title="深圳天威视讯",广东新闻
+http://121.37.185.74:18180/TV00000000000000000023@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="深圳天威视讯",广东体育
+http://121.37.185.74:18180/TV00000000000000000024@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="" group-title="深圳天威视讯",广东经济科教
+http://121.37.185.74:18180/TV00000000000000000025@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="" group-title="深圳天威视讯",广东影视
+http://121.37.185.74:18180/TV00000000000000000026@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="" group-title="深圳天威视讯",广东少儿
+http://121.37.185.74:18180/TV00000000000000000027@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="" group-title="深圳天威视讯",大湾区卫视
+http://121.37.185.74:18180/TV00000000000000000028@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="深圳天威视讯",广东卫视
+http://121.37.185.74:18180/TV00000000000000000029@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="深圳天威视讯",深圳卫视
+http://121.37.185.74:18180/TV00000000000000000030@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="深圳天威视讯",江苏卫视
+http://121.37.185.74:18180/TV00000000000000000031@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="深圳天威视讯",北京卫视
+http://121.37.185.74:18180/TV00000000000000000032@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="深圳天威视讯",天津卫视
+http://121.37.185.74:18180/TV00000000000000000033@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="深圳天威视讯",安徽卫视
+http://121.37.185.74:18180/TV00000000000000000034@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="深圳天威视讯",湖南卫视
+http://121.37.185.74:18180/TV00000000000000000035@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="深圳天威视讯",东方卫视
+http://121.37.185.74:18180/TV00000000000000000036@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="深圳天威视讯",浙江卫视
+http://121.37.185.74:18180/TV00000000000000000037@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="深圳天威视讯",四川卫视
+http://121.37.185.74:18180/TV00000000000000000039@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="深圳天威视讯",广西卫视
+http://121.37.185.74:18180/TV00000000000000000040@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="深圳天威视讯",江西卫视
+http://121.37.185.74:18180/TV00000000000000000041@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="" group-title="深圳天威视讯",东南卫视
+http://121.37.185.74:18180/TV00000000000000000042@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="深圳天威视讯",辽宁卫视
+http://121.37.185.74:18180/TV00000000000000000043@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="深圳天威视讯",吉林卫视
+http://121.37.185.74:18180/TV00000000000000000044@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="深圳天威视讯",河北卫视
+http://121.37.185.74:18180/TV00000000000000000045@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="深圳天威视讯",兵团卫视
+http://121.37.185.74:18180/TV00000000000000000046@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="深圳天威视讯",河南卫视
+http://121.37.185.74:18180/TV00000000000000000047@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="深圳天威视讯",宁夏卫视
+http://121.37.185.74:18180/TV00000000000000000048@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="北京纪实科教" tvg-logo="" group-title="深圳天威视讯",北京纪实科教
+http://121.37.185.74:18180/TV00000000000000000049@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="深圳天威视讯",新疆卫视
+http://121.37.185.74:18180/TV00000000000000000050@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="" group-title="深圳天威视讯",嘉佳卡通
+http://121.37.185.74:18180/TV00000000000000000051@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="深圳天威视讯",黑龙江卫视
+http://121.37.185.74:18180/TV00000000000000000052@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="" group-title="深圳天威视讯",卡酷少儿
+http://121.37.185.74:18180/TV00000000000000000053@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="" group-title="深圳天威视讯",凤凰卫视
+http://121.37.185.74:18180/TV00000000000000000054@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="深圳天威视讯",翡翠台
+http://121.37.185.74:18180/TV00000000000000000055@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="" group-title="深圳天威视讯",明珠台
+http://121.37.185.74:18180/TV00000000000000000056@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="深圳天威视讯",CCTV1 (备用源)
+http://121.37.185.74:28180/TV00000000000000000001@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="深圳天威视讯",CCTV2 (备用源)
+http://121.37.185.74:28180/TV00000000000000000002@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="深圳天威视讯",CCTV3 (备用源)
+http://121.37.185.74:28180/TV00000000000000000003@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="深圳天威视讯",CCTV4 (备用源)
+http://121.37.185.74:28180/TV00000000000000000004@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="深圳天威视讯",CCTV5+ (备用源)
+http://121.37.185.74:28180/TV00000000000000000006@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="深圳天威视讯",CCTV5 (备用源)
+http://121.37.185.74:28180/TV00000000000000000005@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="深圳天威视讯",CCTV6 (备用源)
+http://121.37.185.74:28180/TV00000000000000000007@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="深圳天威视讯",CCTV7 (备用源)
+http://121.37.185.74:28180/TV00000000000000000008@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="深圳天威视讯",CCTV8 (备用源)
+http://121.37.185.74:28180/TV00000000000000000009@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="深圳天威视讯",CCTV9 (备用源)
+http://121.37.185.74:28180/TV00000000000000000010@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="深圳天威视讯",CCTV10 (备用源)
+http://121.37.185.74:28180/TV00000000000000000011@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="深圳天威视讯",CCTV12 (备用源)
+http://121.37.185.74:28180/TV00000000000000000012@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="深圳天威视讯",CCTV13 (备用源)
+http://121.37.185.74:28180/TV00000000000000000013@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="深圳天威视讯",CCTV14 (备用源)
+http://121.37.185.74:28180/TV00000000000000000014@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="深圳天威视讯",CCTV15 (备用源)
+http://121.37.185.74:28180/TV00000000000000000015@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="深圳天威视讯",广东卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000016@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="深圳天威视讯",广东体育 (备用源)
+http://121.37.185.74:28180/TV00000000000000000017@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="深圳天威视讯",深圳卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000018@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="深圳天威视讯",江苏卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000019@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="深圳天威视讯",江苏卫视 (备用源2)
+http://121.37.185.74:28180/TV00000000000000000020@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="深圳天威视讯",东方卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000021@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="深圳天威视讯",北京卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000022@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="" group-title="深圳天威视讯",天津卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000023@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="深圳天威视讯",山东卫视
+http://121.37.185.74:28180/TV00000000000000000024@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="深圳天威视讯",浙江卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000025@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="深圳天威视讯",安徽卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000026@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="深圳天威视讯",四川卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000027@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="深圳天威视讯",贵州卫视
+http://121.37.185.74:28180/TV00000000000000000028@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="" group-title="深圳天威视讯",重庆卫视
+http://121.37.185.74:28180/TV00000000000000000029@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="深圳天威视讯",新疆卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000030@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="深圳天威视讯",星空卫视
+http://121.37.185.74:28180/TV00000000000000000031@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="" group-title="深圳天威视讯",岭南戏曲
+http://121.37.185.74:28180/TV00000000000000000032@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="深圳天威视讯",江西卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000033@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="深圳天威视讯",河南卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000034@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="深圳天威视讯",辽宁卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000035@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="" group-title="深圳天威视讯",凤凰卫视 (备用源)
+http://121.37.185.74:28180/TV00000000000000000036@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="深圳天威视讯",湖北卫视
+http://121.37.185.74:28180/TV00000000000000000037@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="深圳龙岗" tvg-logo="" group-title="深圳天威视讯",深圳龙岗
+http://121.37.185.74:28180/TV00000000000000000038@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="深圳体育健康" tvg-logo="" group-title="深圳天威视讯",深圳体育健康
+http://121.37.185.74:28180/TV00000000000000000039@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="" group-title="深圳天威视讯",嘉佳卡通 (备用源)
+http://121.37.185.74:28180/TV00000000000000000040@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS" tvg-logo="" group-title="深圳天威视讯",STAR SPORTS
+http://121.37.185.74:28180/TV00000000000000000041@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="" group-title="深圳天威视讯",明珠台 (备用源)
+http://121.37.185.74:28180/TV00000000000000000043@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="" group-title="深圳天威视讯",深圳少儿
+http://121.37.185.74:28180/TV00000000000000000044@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="" group-title="深圳天威视讯",广东经济科教 (备用源)
+http://121.37.185.74:28180/TV00000000000000000045@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg新闻" tvg-logo="" group-title="深圳天威视讯",BLOOMBERG新闻
+http://121.37.185.74:28180/TV00000000000000000046@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="BHO Mercy" tvg-logo="" group-title="深圳天威视讯",BHO MERCY
+http://121.37.185.74:28180/TV00000000000000000047@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="深圳天威视讯",CNN
+http://121.37.185.74:28180/TV00000000000000000048@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="" group-title="深圳天威视讯",NHK
+http://121.37.185.74:28180/TV00000000000000000049@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="" group-title="深圳天威视讯",凤凰电影
+http://121.37.185.74:28180/TV00000000000000000050@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="" group-title="福建海博",东南卫视
+http://192.168.1.7:5678/fujianhaibo.php?id=dnws
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="" group-title="福建海博",海峡卫视
+http://192.168.1.7:5678/fujianhaibo.php?id=hxws
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="" group-title="福建海博",厦门卫视
+http://192.168.1.7:5678/fujianhaibo.php?id=xmws
+#EXTINF:-1 tvg-id="" tvg-name="福建综合" tvg-logo="" group-title="福建海博",福建综合
+http://192.168.1.7:5678/fujianhaibo.php?id=fjzh
+#EXTINF:-1 tvg-id="" tvg-name="福建新闻" tvg-logo="" group-title="福建海博",福建新闻
+http://192.168.1.7:5678/fujianhaibo.php?id=fjxw
+#EXTINF:-1 tvg-id="" tvg-name="福建乡村振兴公共" tvg-logo="" group-title="福建海博",福建乡村振兴公共
+http://192.168.1.7:5678/fujianhaibo.php?id=fjxc
+#EXTINF:-1 tvg-id="" tvg-name="福建电视剧" tvg-logo="" group-title="福建海博",福建电视剧
+http://192.168.1.7:5678/fujianhaibo.php?id=fjdsj
+#EXTINF:-1 tvg-id="" tvg-name="福建旅游" tvg-logo="" group-title="福建海博",福建旅游
+http://192.168.1.7:5678/fujianhaibo.php?id=fjly
+#EXTINF:-1 tvg-id="" tvg-name="福建经济" tvg-logo="" group-title="福建海博",福建经济
+http://192.168.1.7:5678/fujianhaibo.php?id=fjjj
+#EXTINF:-1 tvg-id="" tvg-name="福建文体" tvg-logo="" group-title="福建海博",福建文体
+http://192.168.1.7:5678/fujianhaibo.php?id=fjwt
+#EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="" group-title="福建海博",福建少儿
+http://192.168.1.7:5678/fujianhaibo.php?id=fjse
+#EXTINF:-1 tvg-id="" tvg-name="福州新闻综合" tvg-logo="" group-title="福建海博",福州新闻综合
+http://192.168.1.7:5678/fujianhaibo.php?id=fz1
+#EXTINF:-1 tvg-id="" tvg-name="漳州新闻综合" tvg-logo="" group-title="福建海博",漳州新闻综合
+http://192.168.1.7:5678/fujianhaibo.php?id=zz1
+#EXTINF:-1 tvg-id="" tvg-name="泉州新闻综合" tvg-logo="" group-title="福建海博",泉州新闻综合
+http://192.168.1.7:5678/fujianhaibo.php?id=qz1
+#EXTINF:-1 tvg-id="" tvg-name="三明综合" tvg-logo="" group-title="福建海博",三明综合
+http://192.168.1.7:5678/fujianhaibo.php?id=sm1
+#EXTINF:-1 tvg-id="" tvg-name="莆田综合" tvg-logo="" group-title="福建海博",莆田综合
+http://192.168.1.7:5678/fujianhaibo.php?id=pt1
+#EXTINF:-1 tvg-id="" tvg-name="南平综合" tvg-logo="" group-title="福建海博",南平综合
+http://192.168.1.7:5678/fujianhaibo.php?id=np1
+#EXTINF:-1 tvg-id="" tvg-name="龙岩综合" tvg-logo="" group-title="福建海博",龙岩综合
+http://192.168.1.7:5678/fujianhaibo.php?id=ly1
+#EXTINF:-1 tvg-id="" tvg-name="宁德新闻综合" tvg-logo="" group-title="福建海博",宁德新闻综合
+http://192.168.1.7:5678/fujianhaibo.php?id=nd1
+#EXTINF:-1 tvg-id="" tvg-name="平潭综合" tvg-logo="" group-title="福建海博",平潭综合
+http://192.168.1.7:5678/fujianhaibo.php?id=pttv
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="山东卫视",山东卫视
+http://192.168.1.7:5678/shandong.php?id=sdws
+#EXTINF:-1 tvg-id="" tvg-name="齐鲁频道" tvg-logo="" group-title="山东卫视",齐鲁频道
+http://192.168.1.7:5678/shandong.php?id=sdql
+#EXTINF:-1 tvg-id="" tvg-name="新闻频道" tvg-logo="" group-title="山东卫视",新闻频道
+http://192.168.1.7:5678/shandong.php?id=sdxw
+#EXTINF:-1 tvg-id="" tvg-name="体育频道" tvg-logo="" group-title="山东卫视",体育频道
+http://192.168.1.7:5678/shandong.php?id=sdty
+#EXTINF:-1 tvg-id="" tvg-name="生活频道" tvg-logo="" group-title="山东卫视",生活频道
+http://192.168.1.7:5678/shandong.php?id=sdsh
+#EXTINF:-1 tvg-id="" tvg-name="综艺频道" tvg-logo="" group-title="山东卫视",综艺频道
+http://192.168.1.7:5678/shandong.php?id=sdzy
+#EXTINF:-1 tvg-id="" tvg-name="农科频道" tvg-logo="" group-title="山东卫视",农科频道
+http://192.168.1.7:5678/shandong.php?id=sdnk
+#EXTINF:-1 tvg-id="" tvg-name="文旅频道" tvg-logo="" group-title="山东卫视",文旅频道
+http://192.168.1.7:5678/shandong.php?id=sdwl
+#EXTINF:-1 tvg-id="" tvg-name="少儿频道" tvg-logo="" group-title="山东卫视",少儿频道
+http://192.168.1.7:5678/shandong.php?id=sdse
+#EXTINF:-1 tvg-id="" tvg-name="临沂综合" tvg-logo="" group-title="山东卫视",临沂综合
+http://192.168.1.7:5678/sdly.php?id=lyzh
+#EXTINF:-1 tvg-id="" tvg-name="临沂经济" tvg-logo="" group-title="山东卫视",临沂经济
+http://192.168.1.7:5678/sdly.php?id=lyjj
+#EXTINF:-1 tvg-id="" tvg-name="临沂公共" tvg-logo="" group-title="山东卫视",临沂公共
+http://192.168.1.7:5678/sdly.php?id=lygg
+
+#EXTINF:-1 tvg-id="" tvg-name="济南新闻综合频道" tvg-logo="" group-title="山东卫视",济南新闻综合频道
+http://192.168.1.7:5678/山东济南.php?id=1676
+#EXTINF:-1 tvg-id="" tvg-name="济南都市频道" tvg-logo="" group-title="山东卫视",济南都市频道
+http://192.168.1.7:5678/山东济南.php?id=1807
+#EXTINF:-1 tvg-id="" tvg-name="济南文旅体育频道" tvg-logo="" group-title="山东卫视",济南文旅体育频道
+http://192.168.1.7:5678/山东济南.php?id=1842
+#EXTINF:-1 tvg-id="" tvg-name="济南生活频道" tvg-logo="" group-title="山东卫视",济南生活频道
+http://192.168.1.7:5678/山东济南.php?id=1855
+#EXTINF:-1 tvg-id="" tvg-name="济南少儿频道" tvg-logo="" group-title="山东卫视",济南少儿频道
+http://192.168.1.7:5678/山东济南.php?id=2234
+#EXTINF:-1 tvg-id="" tvg-name="济南鲁中频道" tvg-logo="" group-title="山东卫视",济南鲁中频道
+http://192.168.1.7:5678/山东济南.php?id=1857
+#EXTINF:-1 group-title="山东卫视",长清新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=jncqxw
+#EXTINF:-1 group-title="山东卫视",长清生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jncqsh
+#EXTINF:-1 group-title="山东卫视",济铁电视台
+http://192.168.1.7:5678/shangdongqilu.php?id=jnjrtv
+#EXTINF:-1 group-title="山东卫视",济阳综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jnjyzh
+#EXTINF:-1 group-title="山东卫视",济阳影视
+http://192.168.1.7:5678/shangdongqilu.php?id=jnjyys
+#EXTINF:-1 group-title="山东卫视",历城新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jnlcxw
+#EXTINF:-1 group-title="山东卫视",平阴综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jnpyzh
+#EXTINF:-1 group-title="山东卫视",平阴乡村振兴
+http://192.168.1.7:5678/shangdongqilu.php?id=jnpyxc
+#EXTINF:-1 group-title="山东卫视",商河综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jnshzh
+#EXTINF:-1 group-title="山东卫视",商河影视
+http://192.168.1.7:5678/shangdongqilu.php?id=jnshys
+#EXTINF:-1 group-title="山东卫视",章丘综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jnzqzh
+#EXTINF:-1 group-title="山东卫视",章丘公共
+http://192.168.1.7:5678/shangdongqilu.php?id=jnzqgg
+#EXTINF:-1 group-title="山东卫视",东营新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dyxwzh
+#EXTINF:-1 group-title="山东卫视",东营公共
+http://192.168.1.7:5678/shangdongqilu.php?id=dygg
+#EXTINF:-1 group-title="山东卫视",东营公共
+http://192.168.1.7:5678/shangdongqilu.php?id=dygg2
+#EXTINF:-1 group-title="山东卫视",东营科教
+http://192.168.1.7:5678/shangdongqilu.php?id=dykj
+#EXTINF:-1 group-title="山东卫视",东营区新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dydyqxw
+#EXTINF:-1 group-title="山东卫视",东营区科教影视
+http://192.168.1.7:5678/shangdongqilu.php?id=dydyqkj
+#EXTINF:-1 group-title="山东卫视",广饶综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dygrzh
+#EXTINF:-1 group-title="山东卫视",广饶科教文艺
+http://192.168.1.7:5678/shangdongqilu.php?id=dygrkj
+#EXTINF:-1 group-title="山东卫视",垦利新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dyklxw
+#EXTINF:-1 group-title="山东卫视",利津综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dyljzh
+#EXTINF:-1 group-title="山东卫视",利津文化生活
+http://192.168.1.7:5678/shangdongqilu.php?id=dyljwh
+#EXTINF:-1 group-title="山东卫视",城阳综合
+http://192.168.1.7:5678/shangdongqilu.php?id=qdcytv
+#EXTINF:-1 group-title="山东卫视",黄岛综合
+http://192.168.1.7:5678/shangdongqilu.php?id=qdhdzh
+#EXTINF:-1 group-title="山东卫视",黄岛生活
+http://192.168.1.7:5678/shangdongqilu.php?id=qdhdsh
+#EXTINF:-1 group-title="山东卫视",即墨综合
+http://192.168.1.7:5678/shangdongqilu.php?id=qdjmzh
+#EXTINF:-1 group-title="山东卫视",胶州综合
+http://192.168.1.7:5678/shangdongqilu.php?id=qdjzzh
+#EXTINF:-1 group-title="山东卫视",胶州生活
+http://192.168.1.7:5678/shangdongqilu.php?id=qdjzsh
+#EXTINF:-1 group-title="山东卫视",李沧TV
+http://192.168.1.7:5678/shangdongqilu.php?id=qdlc
+#EXTINF:-1 group-title="山东卫视",崂山TV
+http://192.168.1.7:5678/shangdongqilu.php?id=qdls
+#EXTINF:-1 group-title="山东卫视",莱西综合
+http://192.168.1.7:5678/shangdongqilu.php?id=qdlxzh
+#EXTINF:-1 group-title="山东卫视",莱西生活
+http://192.168.1.7:5678/shangdongqilu.php?id=qdlxsh
+#EXTINF:-1 group-title="山东卫视",平度新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=qdpdxw
+#EXTINF:-1 group-title="山东卫视",平度生活服务
+http://192.168.1.7:5678/shangdongqilu.php?id=qdpdsh
+#EXTINF:-1 group-title="山东卫视",潍坊新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfxwzh
+#EXTINF:-1 group-title="山东卫视",潍坊生活
+http://192.168.1.7:5678/shangdongqilu.php?id=wfsh
+#EXTINF:-1 group-title="山东卫视",潍坊影视综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=wfyszy
+#EXTINF:-1 group-title="山东卫视",潍坊科教文旅
+http://192.168.1.7:5678/shangdongqilu.php?id=wfkjwl
+#EXTINF:-1 group-title="山东卫视",潍坊高新区
+http://192.168.1.7:5678/shangdongqilu.php?id=wfgxq
+#EXTINF:-1 group-title="山东卫视",安丘综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfaqzh
+#EXTINF:-1 group-title="山东卫视",安丘民生
+http://192.168.1.7:5678/shangdongqilu.php?id=wfaqms
+#EXTINF:-1 group-title="山东卫视",滨海新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfbhxw
+#EXTINF:-1 group-title="山东卫视",昌乐综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfclzh
+#EXTINF:-1 group-title="山东卫视",昌邑综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfcyzh
+#EXTINF:-1 group-title="山东卫视",昌邑经济生活
+http://192.168.1.7:5678/shangdongqilu.php?id=wfcyjj
+#EXTINF:-1 group-title="山东卫视",坊子新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wffzxw
+#EXTINF:-1 group-title="山东卫视",高密综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfgmzh
+#EXTINF:-1 group-title="山东卫视",高密党建农科
+http://192.168.1.7:5678/shangdongqilu.php?id=wfgmdj
+#EXTINF:-1 group-title="山东卫视",寒亭新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=wfhtxw
+#EXTINF:-1 group-title="山东卫视",奎文电视台
+http://192.168.1.7:5678/shangdongqilu.php?id=wfkwtv
+#EXTINF:-1 group-title="山东卫视",临朐新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wflqzh
+#EXTINF:-1 group-title="山东卫视",青州综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfqzzh
+#EXTINF:-1 group-title="山东卫视",青州文化旅游
+http://192.168.1.7:5678/shangdongqilu.php?id=wfqzwh
+#EXTINF:-1 group-title="山东卫视",潍城TV
+http://192.168.1.7:5678/shangdongqilu.php?id=wfwc
+#EXTINF:-1 group-title="山东卫视",诸城新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfzczh
+#EXTINF:-1 group-title="山东卫视",诸城生活娱乐
+http://192.168.1.7:5678/shangdongqilu.php?id=wfzcsh
+#EXTINF:-1 group-title="山东卫视",寿光综合
+http://192.168.1.7:5678/shangdongqilu.php?id=wfsgzh
+#EXTINF:-1 group-title="山东卫视",寿光蔬菜
+http://192.168.1.7:5678/shangdongqilu.php?id=wfsgsc
+#EXTINF:-1 group-title="山东卫视",长岛TV
+http://192.168.1.7:5678/shangdongqilu.php?id=ytcd
+#EXTINF:-1 group-title="山东卫视",福山综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytfszh
+#EXTINF:-1 group-title="山东卫视",福山生活
+http://192.168.1.7:5678/shangdongqilu.php?id=ytfssh
+#EXTINF:-1 group-title="山东卫视",海阳综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ythyzh
+#EXTINF:-1 group-title="山东卫视",龙口综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytlkzh
+#EXTINF:-1 group-title="山东卫视",莱山综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytlszh
+#EXTINF:-1 group-title="山东卫视",莱山影视
+http://192.168.1.7:5678/shangdongqilu.php?id=ytlsys
+#EXTINF:-1 group-title="山东卫视",莱阳综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytlyzh
+#EXTINF:-1 group-title="山东卫视",莱阳民生综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=ytlyms
+#EXTINF:-1 group-title="山东卫视",莱州综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytlzzh
+#EXTINF:-1 group-title="山东卫视",牟平综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytmpzh
+#EXTINF:-1 group-title="山东卫视",蓬莱综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=ytplzy
+#EXTINF:-1 group-title="山东卫视",栖霞综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytqxzh
+#EXTINF:-1 group-title="山东卫视",栖霞苹果
+http://192.168.1.7:5678/shangdongqilu.php?id=ytqxpg
+#EXTINF:-1 group-title="山东卫视",招远综合
+http://192.168.1.7:5678/shangdongqilu.php?id=ytzyzh
+#EXTINF:-1 group-title="山东卫视",招远综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=ytzyzy
+#EXTINF:-1 group-title="山东卫视",博山新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=zbbsxw
+#EXTINF:-1 group-title="山东卫视",博山图文
+http://192.168.1.7:5678/shangdongqilu.php?id=zbbstw
+#EXTINF:-1 group-title="山东卫视",高青综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zbgqzh
+#EXTINF:-1 group-title="山东卫视",高青影视
+http://192.168.1.7:5678/shangdongqilu.php?id=zbgqys
+#EXTINF:-1 group-title="山东卫视",桓台综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zbht1
+#EXTINF:-1 group-title="山东卫视",桓台影视
+http://192.168.1.7:5678/shangdongqilu.php?id=zbht2
+#EXTINF:-1 group-title="山东卫视",临淄新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zblzxw
+#EXTINF:-1 group-title="山东卫视",临淄生活服务
+http://192.168.1.7:5678/shangdongqilu.php?id=zblzsh
+#EXTINF:-1 group-title="山东卫视",沂源综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zbyyzh
+#EXTINF:-1 group-title="山东卫视",沂源生活
+http://192.168.1.7:5678/shangdongqilu.php?id=zbyysh
+#EXTINF:-1 group-title="山东卫视",淄川新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=zbzcxw
+#EXTINF:-1 group-title="山东卫视",张店1
+http://192.168.1.7:5678/shangdongqilu.php?id=zbzd1
+#EXTINF:-1 group-title="山东卫视",张店2
+http://192.168.1.7:5678/shangdongqilu.php?id=zbzd2
+#EXTINF:-1 group-title="山东卫视",周村新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=zbzctv1
+#EXTINF:-1 group-title="山东卫视",周村生活
+http://192.168.1.7:5678/shangdongqilu.php?id=zbzctv2
+#EXTINF:-1 group-title="山东卫视",山亭综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zzstzh
+#EXTINF:-1 group-title="山东卫视",枣庄市中综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zzszzh
+#EXTINF:-1 group-title="山东卫视",滕州综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zztzzh
+#EXTINF:-1 group-title="山东卫视",滕州民生
+http://192.168.1.7:5678/shangdongqilu.php?id=zztzms
+#EXTINF:-1 group-title="山东卫视",薛城新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zzxcxw
+#EXTINF:-1 group-title="山东卫视",峄城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=zzyczh
+#EXTINF:-1 group-title="山东卫视",滨城TV
+http://192.168.1.7:5678/shangdongqilu.php?id=bzbctv
+#EXTINF:-1 group-title="山东卫视",博兴综合
+http://192.168.1.7:5678/shangdongqilu.php?id=bzbxzh
+#EXTINF:-1 group-title="山东卫视",博兴生活
+http://192.168.1.7:5678/shangdongqilu.php?id=bzbxsh
+#EXTINF:-1 group-title="山东卫视",惠民综合
+http://192.168.1.7:5678/shangdongqilu.php?id=bzhmzh
+#EXTINF:-1 group-title="山东卫视",惠民影视
+http://192.168.1.7:5678/shangdongqilu.php?id=bzhmys
+#EXTINF:-1 group-title="山东卫视",无棣综合
+http://192.168.1.7:5678/shangdongqilu.php?id=bzwdzh
+#EXTINF:-1 group-title="山东卫视",无棣综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=bzwdzy
+#EXTINF:-1 group-title="山东卫视",阳信新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=bzyxxw
+#EXTINF:-1 group-title="山东卫视",沾化综合
+http://192.168.1.7:5678/shangdongqilu.php?id=bzzhzh
+#EXTINF:-1 group-title="山东卫视",沾化综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=bzzhzy
+#EXTINF:-1 group-title="山东卫视",邹平综合
+http://192.168.1.7:5678/shangdongqilu.php?id=bzzpzh
+#EXTINF:-1 group-title="山东卫视",邹平民生
+http://192.168.1.7:5678/shangdongqilu.php?id=bzzpms
+#EXTINF:-1 group-title="山东卫视",德州新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzxwzh
+#EXTINF:-1 group-title="山东卫视",德州经济生活
+http://192.168.1.7:5678/shangdongqilu.php?id=dzjjsh
+#EXTINF:-1 group-title="山东卫视",德州图文
+http://192.168.1.7:5678/shangdongqilu.php?id=dztw
+#EXTINF:-1 group-title="山东卫视",陵城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzlczh
+#EXTINF:-1 group-title="山东卫视",陵城综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzlczh2
+#EXTINF:-1 group-title="山东卫视",乐陵新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzllxw
+#EXTINF:-1 group-title="山东卫视",乐陵新闻综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzllxw2
+#EXTINF:-1 group-title="山东卫视",乐陵城市生活
+http://192.168.1.7:5678/shangdongqilu.php?id=dzllcs
+#EXTINF:-1 group-title="山东卫视",乐陵城市生活2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzllcs2
+#EXTINF:-1 group-title="山东卫视",临邑1
+http://192.168.1.7:5678/shangdongqilu.php?id=dzly1
+#EXTINF:-1 group-title="山东卫视",临邑2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzly2
+#EXTINF:-1 group-title="山东卫视",临邑2b
+http://192.168.1.7:5678/shangdongqilu.php?id=dzly2b
+#EXTINF:-1 group-title="山东卫视",宁津综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dznjzh
+#EXTINF:-1 group-title="山东卫视",宁津综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dznjzh2
+#EXTINF:-1 group-title="山东卫视",平原综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzpyzh
+#EXTINF:-1 group-title="山东卫视",平原综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzpyzh2
+#EXTINF:-1 group-title="山东卫视",庆云综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzqyzh
+#EXTINF:-1 group-title="山东卫视",庆云综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzqyzh2
+#EXTINF:-1 group-title="山东卫视",庆云生活
+http://192.168.1.7:5678/shangdongqilu.php?id=dzqysh
+#EXTINF:-1 group-title="山东卫视",庆云生活2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzqysh2
+#EXTINF:-1 group-title="山东卫视",武城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzwczh
+#EXTINF:-1 group-title="山东卫视",武城综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzwczh2
+#EXTINF:-1 group-title="山东卫视",武城综艺影视
+http://192.168.1.7:5678/shangdongqilu.php?id=dzwczy
+#EXTINF:-1 group-title="山东卫视",武城综艺影视2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzwczy2
+#EXTINF:-1 group-title="山东卫视",夏津综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzxjzh
+#EXTINF:-1 group-title="山东卫视",夏津综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzxjzh2
+#EXTINF:-1 group-title="山东卫视",夏津公共
+http://192.168.1.7:5678/shangdongqilu.php?id=dzxjgg
+#EXTINF:-1 group-title="山东卫视",夏津公共2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzxjgg2
+#EXTINF:-1 group-title="山东卫视",禹城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=dzyczh
+#EXTINF:-1 group-title="山东卫视",禹城综合2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzyczh2
+#EXTINF:-1 group-title="山东卫视",禹城综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=dzyczy
+#EXTINF:-1 group-title="山东卫视",禹城综艺2
+http://192.168.1.7:5678/shangdongqilu.php?id=dzyczy2
+#EXTINF:-1 group-title="山东卫视",成武综合
+http://192.168.1.7:5678/shangdongqilu.php?id=hzcwzh
+#EXTINF:-1 group-title="山东卫视",成武综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=hzcwzy
+#EXTINF:-1 group-title="山东卫视",曹县综合
+http://192.168.1.7:5678/shangdongqilu.php?id=hzcxzh
+#EXTINF:-1 group-title="山东卫视",东明新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=hzdmxw
+#EXTINF:-1 group-title="山东卫视",定陶新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=hzdt1
+#EXTINF:-1 group-title="山东卫视",定陶综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=hzdt2
+#EXTINF:-1 group-title="山东卫视",鄄城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=hzjczh
+#EXTINF:-1 group-title="山东卫视",巨野新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=hzjyxw
+#EXTINF:-1 group-title="山东卫视",牡丹区新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=hzmdxw
+#EXTINF:-1 group-title="山东卫视",牡丹区综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=hzmdzy
+#EXTINF:-1 group-title="山东卫视",单县综合
+http://192.168.1.7:5678/shangdongqilu.php?id=hzsxzh
+#EXTINF:-1 group-title="山东卫视",郓城新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=hzycxw
+#EXTINF:-1 group-title="山东卫视",郓城综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=hzyczy
+#EXTINF:-1 group-title="山东卫视",嘉祥综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jijiazh
+#EXTINF:-1 group-title="山东卫视",嘉祥生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jijiash
+#EXTINF:-1 group-title="山东卫视",金乡综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jijxzh
+#EXTINF:-1 group-title="山东卫视",金乡生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jijxsh
+#EXTINF:-1 group-title="山东卫视",梁山综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jilszh
+#EXTINF:-1 group-title="山东卫视",曲阜新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jiqfxw
+#EXTINF:-1 group-title="山东卫视",任城新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jircxw
+#EXTINF:-1 group-title="山东卫视",任城影视娱乐
+http://192.168.1.7:5678/shangdongqilu.php?id=jircys
+#EXTINF:-1 group-title="山东卫视",泗水新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jissxw
+#EXTINF:-1 group-title="山东卫视",泗水文化生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jisswh
+#EXTINF:-1 group-title="山东卫视",汶上综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jiwszh
+#EXTINF:-1 group-title="山东卫视",汶上生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jiwssh
+#EXTINF:-1 group-title="山东卫视",鱼台新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=jiytxw
+#EXTINF:-1 group-title="山东卫视",鱼台生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jiytsh
+#EXTINF:-1 group-title="山东卫视",兖州新闻
+http://192.168.1.7:5678/shangdongqilu.php?id=jiyzxw
+#EXTINF:-1 group-title="山东卫视",兖州生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jiyzsh
+#EXTINF:-1 group-title="山东卫视",邹城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=jizczh
+#EXTINF:-1 group-title="山东卫视",邹城文化生活
+http://192.168.1.7:5678/shangdongqilu.php?id=jizcwh
+#EXTINF:-1 group-title="山东卫视",茌平综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lccpzh
+#EXTINF:-1 group-title="山东卫视",茌平生活
+http://192.168.1.7:5678/shangdongqilu.php?id=lccpsh
+#EXTINF:-1 group-title="山东卫视",东昌综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lcdczh
+#EXTINF:-1 group-title="山东卫视",东阿综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lcdezh
+#EXTINF:-1 group-title="山东卫视",东阿综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=lcdezy
+#EXTINF:-1 group-title="山东卫视",高唐综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lcgtzh
+#EXTINF:-1 group-title="山东卫视",高唐综艺
+http://192.168.1.7:5678/shangdongqilu.php?id=lcgtzy
+#EXTINF:-1 group-title="山东卫视",冠县综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lcgxzh
+#EXTINF:-1 group-title="山东卫视",临清综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lclqzh
+#EXTINF:-1 group-title="山东卫视",临清经济信息
+http://192.168.1.7:5678/shangdongqilu.php?id=lclqjj
+#EXTINF:-1 group-title="山东卫视",莘县综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lcsxzh
+#EXTINF:-1 group-title="山东卫视",莘县生活
+http://192.168.1.7:5678/shangdongqilu.php?id=lcsxsh
+#EXTINF:-1 group-title="山东卫视",阳谷综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lcygzh
+#EXTINF:-1 group-title="山东卫视",阳谷影视
+http://192.168.1.7:5678/shangdongqilu.php?id=lcygys
+#EXTINF:-1 group-title="山东卫视",费县综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lyfxzh
+#EXTINF:-1 group-title="山东卫视",费县生活
+http://192.168.1.7:5678/shangdongqilu.php?id=lyfxsh
+#EXTINF:-1 group-title="山东卫视",河东综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lyhdzh
+#EXTINF:-1 group-title="山东卫视",河东影视
+http://192.168.1.7:5678/shangdongqilu.php?id=lyhdys
+#EXTINF:-1 group-title="山东卫视",莒南综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lyjnzh
+#EXTINF:-1 group-title="山东卫视",莒南影视
+http://192.168.1.7:5678/shangdongqilu.php?id=lyjnys
+#EXTINF:-1 group-title="山东卫视",兰陵综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lyllzh
+#EXTINF:-1 group-title="山东卫视",兰陵公共
+http://192.168.1.7:5678/shangdongqilu.php?id=lyllgg
+#EXTINF:-1 group-title="山东卫视",兰山综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lylszh
+#EXTINF:-1 group-title="山东卫视",临沭综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lyls1
+#EXTINF:-1 group-title="山东卫视",临沭生活
+http://192.168.1.7:5678/shangdongqilu.php?id=lyls2
+#EXTINF:-1 group-title="山东卫视",罗庄综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lylzzh
+#EXTINF:-1 group-title="山东卫视",罗庄影视
+http://192.168.1.7:5678/shangdongqilu.php?id=lylzys
+#EXTINF:-1 group-title="山东卫视",蒙阴综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lymy1
+#EXTINF:-1 group-title="山东卫视",蒙阴2套
+http://192.168.1.7:5678/shangdongqilu.php?id=lymy2
+#EXTINF:-1 group-title="山东卫视",平邑综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lypyzh
+#EXTINF:-1 group-title="山东卫视",平邑生活
+http://192.168.1.7:5678/shangdongqilu.php?id=lypysh
+#EXTINF:-1 group-title="山东卫视",郯城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lytc1
+#EXTINF:-1 group-title="山东卫视",郯城2套
+http://192.168.1.7:5678/shangdongqilu.php?id=lytc2
+#EXTINF:-1 group-title="山东卫视",沂南综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lyynzh
+#EXTINF:-1 group-title="山东卫视",沂南红色影视
+http://192.168.1.7:5678/shangdongqilu.php?id=lyynys
+#EXTINF:-1 group-title="山东卫视",沂水综合
+http://192.168.1.7:5678/shangdongqilu.php?id=lyys1
+#EXTINF:-1 group-title="山东卫视",沂水生活
+http://192.168.1.7:5678/shangdongqilu.php?id=lyys2
+#EXTINF:-1 group-title="山东卫视",莒县综合
+http://192.168.1.7:5678/shangdongqilu.php?id=rzjx1
+#EXTINF:-1 group-title="山东卫视",莒县2套
+http://192.168.1.7:5678/shangdongqilu.php?id=rzjx2
+#EXTINF:-1 group-title="山东卫视",岚山TV
+http://192.168.1.7:5678/shangdongqilu.php?id=rzls
+#EXTINF:-1 group-title="山东卫视",五莲综合
+http://192.168.1.7:5678/shangdongqilu.php?id=rzwlzh
+#EXTINF:-1 group-title="山东卫视",五莲文化旅游
+http://192.168.1.7:5678/shangdongqilu.php?id=rzwlwh
+#EXTINF:-1 group-title="山东卫视",东平综合
+http://192.168.1.7:5678/shangdongqilu.php?id=tadpzh
+#EXTINF:-1 group-title="山东卫视",东平民生
+http://192.168.1.7:5678/shangdongqilu.php?id=tadpms
+#EXTINF:-1 group-title="山东卫视",岱岳TV
+http://192.168.1.7:5678/shangdongqilu.php?id=tady
+#EXTINF:-1 group-title="山东卫视",肥城综合
+http://192.168.1.7:5678/shangdongqilu.php?id=tafczh
+#EXTINF:-1 group-title="山东卫视",肥城生活
+http://192.168.1.7:5678/shangdongqilu.php?id=tafcsh
+#EXTINF:-1 group-title="山东卫视",宁阳综合
+http://192.168.1.7:5678/shangdongqilu.php?id=tany1
+#EXTINF:-1 group-title="山东卫视",宁阳2套
+http://192.168.1.7:5678/shangdongqilu.php?id=tany2
+#EXTINF:-1 group-title="山东卫视",泰山TV
+http://192.168.1.7:5678/shangdongqilu.php?id=tats
+#EXTINF:-1 group-title="山东卫视",新泰综合
+http://192.168.1.7:5678/shangdongqilu.php?id=taxtzh
+#EXTINF:-1 group-title="山东卫视",新泰乡村
+http://192.168.1.7:5678/shangdongqilu.php?id=taxtxc
+#EXTINF:-1 group-title="山东卫视",威海新闻综合
+http://192.168.1.7:5678/shangdongqilu.php?id=whxwzh
+#EXTINF:-1 group-title="山东卫视",威海都市生活
+http://192.168.1.7:5678/shangdongqilu.php?id=whdssh
+#EXTINF:-1 group-title="山东卫视",威海海洋
+http://192.168.1.7:5678/shangdongqilu.php?id=whhy
+#EXTINF:-1 group-title="山东卫视",威海环翠综合
+http://192.168.1.7:5678/shangdongqilu.php?id=whhczh
+#EXTINF:-1 group-title="山东卫视",荣成综合
+http://192.168.1.7:5678/shangdongqilu.php?id=whrczh
+#EXTINF:-1 group-title="山东卫视",荣成生活
+http://192.168.1.7:5678/shangdongqilu.php?id=whrcsh
+#EXTINF:-1 group-title="山东卫视",乳山综合
+http://192.168.1.7:5678/shangdongqilu.php?id=whrszh
+#EXTINF:-1 group-title="山东卫视",乳山生活
+http://192.168.1.7:5678/shangdongqilu.php?id=whrssh
+#EXTINF:-1 group-title="山东卫视",文登TV1
+http://192.168.1.7:5678/shangdongqilu.php?id=whwd1
+#EXTINF:-1 group-title="山东卫视",文登TV2
+http://192.168.1.7:5678/shangdongqilu.php?id=whwd2
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="九江新闻综合" tvg-logo="" group-title="江西卫视",九江新闻综合
+http://play-sh13.quklive.com/live/1757386374062009.m3u8?auth_key=2074409953-1dae95326c7943b28c3dbf66f89354be-0-2837005cdaa6ccd097b866975abe466a
+#EXTINF:-1 tvg-id="" tvg-name="九江公共" tvg-logo="" group-title="江西卫视",九江公共
+http://play-sh13.quklive.com/live/1757386400403349.m3u8?auth_key=2074410330-9138a1677cea4015b7334a66a9f7952e-0-80e8dd4c82311ea7461dd8df8ca922aa
+#EXTINF:-1 tvg-id="" tvg-name="九江教育" tvg-logo="" group-title="江西卫视",九江教育
+http://play-sh13.quklive.com/live/1757386418265193.m3u8?auth_key=2074410488-9eee5f4ee84540729319cc9af9a7bdb6-0-b8af9f64ba30f377a2bb03a0f0e70037
+#EXTINF:-1 tvg-id="" tvg-name="彭泽综合" tvg-logo="" group-title="江西卫视",彭泽综合
+https://play-a2.quklive.com/live/1740970999257207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上饶新闻综合" tvg-logo="" group-title="江西卫视",上饶新闻综合
+http://hls.quklive.com/live/play-sh-21.quklive.com/1758679893354090.m3u8?auth_key=2079617060-d88f59f738b64d69b58ac542b98edc52-0-af8b48e2d891ba488c9878f25460e7e5
+#EXTINF:-1 tvg-id="" tvg-name="上饶经济旅游" tvg-logo="" group-title="江西卫视",上饶经济旅游
+http://hls.quklive.com/live/play-sh-21.quklive.com/1758679936307088.m3u8?auth_key=2079617536-ebdadda3459e4ffbad4899a77d78551c-0-e123b1d1dd2ccc62a65941dda465eb1f
+#EXTINF:-1 tvg-id="" tvg-name="广丰综合" tvg-logo="" group-title="江西卫视",广丰综合
+https://play-a2.quklive.com/live/1754033359790055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="玉山综合" tvg-logo="" group-title="江西卫视",玉山综合
+http://play-a2.quklive.com/live/1744269699236128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="崇仁综合" tvg-logo="" group-title="江西卫视",崇仁综合
+http://play-a2.quklive.com/live/1744277411242065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="乐安综合" tvg-logo="" group-title="江西卫视",乐安综合
+http://play-a2.quklive.com/live/1752744744088073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="丰城新闻综合" tvg-logo="" group-title="江西卫视",丰城新闻综合
+http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
+#EXTINF:-1 tvg-id="" tvg-name="万载电视台" tvg-logo="" group-title="江西卫视",万载电视台
+http://play-a2.quklive.com/live/1739162440932308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="铜鼓综合" tvg-logo="" group-title="江西卫视",铜鼓综合
+http://play-a2.quklive.com/live/1742531118997158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="井冈山综合" tvg-logo="" group-title="江西卫视",井冈山综合
+http://play-a2.quklive.com/live/1743498103845328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="定南综合" tvg-logo="" group-title="江西卫视",定南综合
+http://play-sh13.quklive.com/live/1762136155495343.m3u8?auth_key=2079618705-65d76ec872e34ae4b20754350ddb966e-0-6ffe234c7afa525ab41523ce49baa6a3
+#EXTINF:-1 tvg-id="" tvg-name="宁都综合" tvg-logo="" group-title="江西卫视",宁都综合
+http://play-a2.quklive.com/live/1749084198822069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="南康综合" tvg-logo="" group-title="江西卫视",南康综合
+http://play-a2.quklive.com/live/1758525653004384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上犹综合" tvg-logo="" group-title="江西卫视",上犹综合
+http://play-a2.quklive.com/live/1761893154602099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="信丰综合" tvg-logo="" group-title="江西卫视",信丰综合
+http://play-a2.quklive.com/live/1761874123034214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="瑞金综合" tvg-logo="" group-title="江西卫视",瑞金综合
+http://play-a2.quklive.com/live/1760408109205119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="景德镇新闻综合" tvg-logo="" group-title="江西卫视",景德镇新闻综合
+http://play-sh.quklive.com/live/1724916607073321.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北卫视",河北卫视
+http://192.168.1.7:5678/hebei.php?id=hbws
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北卫视",经济生活
+http://192.168.1.7:5678/hebei.php?id=jjsh
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北卫视",农民频道
+http://192.168.1.7:5678/hebei.php?id=nmpd
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北卫视",河北都市
+http://192.168.1.7:5678/hebei.php?id=hbds
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北卫视",河北影视剧
+http://192.168.1.7:5678/hebei.php?id=hbys
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北卫视",少儿科教
+http://192.168.1.7:5678/hebei.php?id=sekj
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="河北卫视",河北公共
+http://192.168.1.7:5678/hebei.php?id=hbgg
+#EXTINF:-1 tvg-id="" tvg-name="高邑融媒" tvg-logo="" group-title="河北卫视",高邑融媒
+http://192.168.1.7:5678/hb.php?id=gy1
+#EXTINF:-1 tvg-id="" tvg-name="鹿泉综合" tvg-logo="" group-title="河北卫视",鹿泉综合
+http://192.168.1.7:5678/hb.php?id=lq1
+#EXTINF:-1 tvg-id="" tvg-name="鹿泉电视台" tvg-logo="" group-title="河北卫视",鹿泉电视台
+http://192.168.1.7:5678/hb.php?id=lq2
+#EXTINF:-1 tvg-id="" tvg-name="保定新闻综合" tvg-logo="" group-title="河北卫视",保定新闻综合
+http://192.168.1.7:5678/hb.php?id=bd1
+#EXTINF:-1 tvg-id="" tvg-name="保定公共" tvg-logo="" group-title="河北卫视",保定公共
+http://192.168.1.7:5678/hb.php?id=bd2
+#EXTINF:-1 tvg-id="" tvg-name="保定生活健康" tvg-logo="" group-title="河北卫视",保定生活健康
+http://192.168.1.7:5678/hb.php?id=bd3
+#EXTINF:-1 tvg-id="" tvg-name="定州新闻综合" tvg-logo="" group-title="河北卫视",定州新闻综合
+http://192.168.1.7:5678/hb.php?id=dz1
+#EXTINF:-1 tvg-id="" tvg-name="定州生活" tvg-logo="" group-title="河北卫视",定州生活
+http://192.168.1.7:5678/hb.php?id=dz2
+#EXTINF:-1 tvg-id="" tvg-name="定州国学影视" tvg-logo="" group-title="河北卫视",定州国学影视
+http://192.168.1.7:5678/hb.php?id=dz3
+#EXTINF:-1 tvg-id="" tvg-name="涞水综合" tvg-logo="" group-title="河北卫视",涞水综合
+http://192.168.1.7:5678/hb.php?id=ls1
+#EXTINF:-1 tvg-id="" tvg-name="涞源综合" tvg-logo="" group-title="河北卫视",涞源综合
+http://192.168.1.7:5678/hb.php?id=ly1
+#EXTINF:-1 tvg-id="" tvg-name="清苑新闻" tvg-logo="" group-title="河北卫视",清苑新闻
+http://192.168.1.7:5678/hb.php?id=qy1
+#EXTINF:-1 tvg-id="" tvg-name="清苑生活" tvg-logo="" group-title="河北卫视",清苑生活
+http://192.168.1.7:5678/hb.php?id=qy2
+#EXTINF:-1 tvg-id="" tvg-name="望都TV1套" tvg-logo="" group-title="河北卫视",望都TV1套
+http://192.168.1.7:5678/hb.php?id=wd1
+#EXTINF:-1 tvg-id="" tvg-name="徐水TV1套" tvg-logo="" group-title="河北卫视",徐水TV1套
+http://192.168.1.7:5678/hb.php?id=xs1
+#EXTINF:-1 tvg-id="" tvg-name="承德新闻综合" tvg-logo="" group-title="河北卫视",承德新闻综合
+http://192.168.1.7:5678/hb.php?id=cd1
+#EXTINF:-1 tvg-id="" tvg-name="承德旅游文化" tvg-logo="" group-title="河北卫视",承德旅游文化
+http://192.168.1.7:5678/hb.php?id=cd2
+#EXTINF:-1 tvg-id="" tvg-name="丰宁综合" tvg-logo="" group-title="河北卫视",丰宁综合
+http://192.168.1.7:5678/hb.php?id=fn1
+#EXTINF:-1 tvg-id="" tvg-name="丰宁娱乐" tvg-logo="" group-title="河北卫视",丰宁娱乐
+http://192.168.1.7:5678/hb.php?id=fn2
+#EXTINF:-1 tvg-id="" tvg-name="平泉综合" tvg-logo="" group-title="河北卫视",平泉综合
+http://192.168.1.7:5678/hb.php?id=pq1
+#EXTINF:-1 tvg-id="" tvg-name="平泉影视" tvg-logo="" group-title="河北卫视",平泉影视
+http://192.168.1.7:5678/hb.php?id=pq2
+#EXTINF:-1 tvg-id="" tvg-name="双滦新闻" tvg-logo="" group-title="河北卫视",双滦新闻
+http://192.168.1.7:5678/hb.php?id=sl1
+#EXTINF:-1 tvg-id="" tvg-name="双滦影视" tvg-logo="" group-title="河北卫视",双滦影视
+http://192.168.1.7:5678/hb.php?id=sl2
+#EXTINF:-1 tvg-id="" tvg-name="围场综合" tvg-logo="" group-title="河北卫视",围场综合
+http://192.168.1.7:5678/hb.php?id=wc1
+#EXTINF:-1 tvg-id="" tvg-name="兴隆综合" tvg-logo="" group-title="河北卫视",兴隆综合
+http://192.168.1.7:5678/hb.php?id=xl1
+#EXTINF:-1 tvg-id="" tvg-name="南皮综合" tvg-logo="" group-title="河北卫视",南皮综合
+http://192.168.1.7:5678/hb.php?id=np1
+#EXTINF:-1 tvg-id="" tvg-name="青县一套" tvg-logo="" group-title="河北卫视",青县一套
+http://192.168.1.7:5678/hb.php?id=qx
+#EXTINF:-1 tvg-id="" tvg-name="任丘一套" tvg-logo="" group-title="河北卫视",任丘一套
+http://192.168.1.7:5678/hb.php?id=rq1
+#EXTINF:-1 tvg-id="" tvg-name="任丘二套" tvg-logo="" group-title="河北卫视",任丘二套
+http://192.168.1.7:5678/hb.php?id=rq2
+#EXTINF:-1 tvg-id="" tvg-name="邯郸新闻综合" tvg-logo="" group-title="河北卫视",邯郸新闻综合
+http://192.168.1.7:5678/hb.php?id=hd1
+#EXTINF:-1 tvg-id="" tvg-name="邯郸公共" tvg-logo="" group-title="河北卫视",邯郸公共
+http://192.168.1.7:5678/hb.php?id=hd2
+#EXTINF:-1 tvg-id="" tvg-name="成安综合" tvg-logo="" group-title="河北卫视",成安综合
+http://192.168.1.7:5678/hb.php?id=ca1
+#EXTINF:-1 tvg-id="" tvg-name="涉县新闻综合" tvg-logo="" group-title="河北卫视",涉县新闻综合
+http://192.168.1.7:5678/hb.php?id=sx1
+#EXTINF:-1 tvg-id="" tvg-name="三河综合" tvg-logo="" group-title="河北卫视",三河综合
+http://192.168.1.7:5678/hb.php?id=sh1
+#EXTINF:-1 tvg-id="" tvg-name="昌黎电视台" tvg-logo="" group-title="河北卫视",昌黎电视台
+http://192.168.1.7:5678/hb.php?id=cl1
+#EXTINF:-1 tvg-id="" tvg-name="迁西综合" tvg-logo="" group-title="河北卫视",迁西综合
+http://192.168.1.7:5678/hb.php?id=qx1
+#EXTINF:-1 tvg-id="" tvg-name="迁西农业" tvg-logo="" group-title="河北卫视",迁西农业
+http://192.168.1.7:5678/hb.php?id=qx2
+#EXTINF:-1 tvg-id="" tvg-name="邢台城市生活" tvg-logo="" group-title="河北卫视",邢台城市生活
+http://192.168.1.7:5678/hb.php?id=xt2
+#EXTINF:-1 tvg-id="" tvg-name="临西综合" tvg-logo="" group-title="河北卫视",临西综合
+http://192.168.1.7:5678/hb.php?id=lx1
+#EXTINF:-1 tvg-id="" tvg-name="临西生活" tvg-logo="" group-title="河北卫视",临西生活
+http://192.168.1.7:5678/hb.php?id=lx2
+#EXTINF:-1 tvg-id="" tvg-name="南宫一套" tvg-logo="" group-title="河北卫视",南宫一套
+http://192.168.1.7:5678/hb.php?id=ng1
+#EXTINF:-1 tvg-id="" tvg-name="南和综合" tvg-logo="" group-title="河北卫视",南和综合
+http://192.168.1.7:5678/hb.php?id=nh1
+#EXTINF:-1 tvg-id="" tvg-name="南和影视" tvg-logo="" group-title="河北卫视",南和影视
+http://192.168.1.7:5678/hb.php?id=nh2
+#EXTINF:-1 tvg-id="" tvg-name="清河新闻综合" tvg-logo="" group-title="河北卫视",清河新闻综合
+http://192.168.1.7:5678/hb.php?id=qh1
+#EXTINF:-1 tvg-id="" tvg-name="清河经济综艺" tvg-logo="" group-title="河北卫视",清河经济综艺
+http://192.168.1.7:5678/hb.php?id=qh2
+
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="陕西卫视",陕西卫视
+http://192.168.1.7:5678/陕西.php?id=1131
+#EXTINF:-1 tvg-id="" tvg-name="新闻资讯" tvg-logo="" group-title="陕西卫视",新闻资讯
+http://192.168.1.7:5678/陕西.php?id=1127
+#EXTINF:-1 tvg-id="" tvg-name="都市青春" tvg-logo="" group-title="陕西卫视",都市青春
+http://192.168.1.7:5678/陕西.php?id=1128
+#EXTINF:-1 tvg-id="" tvg-name="银龄频道" tvg-logo="" group-title="陕西卫视",银龄频道
+http://192.168.1.7:5678/陕西.php?id=1129
+#EXTINF:-1 tvg-id="" tvg-name="秦腔频道" tvg-logo="" group-title="陕西卫视",秦腔频道
+http://192.168.1.7:5678/陕西.php?id=1130
+#EXTINF:-1 tvg-id="" tvg-name="体育休闲" tvg-logo="" group-title="陕西卫视",体育休闲
+http://192.168.1.7:5678/陕西.php?id=1179
+#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="" group-title="陕西卫视",农林卫视
+http://192.168.1.7:5678/陕西.php?id=1126
+#EXTINF:-1 tvg-id="" tvg-name="乐家购物" tvg-logo="" group-title="陕西卫视",乐家购物
+http://192.168.1.7:5678/陕西.php?id=1241
+#EXTINF:-1 tvg-id="" tvg-name="移动电视" tvg-logo="" group-title="陕西卫视",移动电视
+http://192.168.1.7:5678/陕西.php?id=1242
+
+#EXTINF:-1 tvg-id="" tvg-name="西安新闻综合" tvg-logo="" group-title="陕西卫视",西安新闻综合
+http://192.168.1.7:5678/西安.php?id=xazh
+#EXTINF:-1 tvg-id="" tvg-name="西安都市" tvg-logo="" group-title="陕西卫视",西安都市
+http://192.168.1.7:5678/西安.php?id=xads
+#EXTINF:-1 tvg-id="" tvg-name="西安商务资讯" tvg-logo="" group-title="陕西卫视",西安商务资讯
+http://192.168.1.7:5678/西安.php?id=xasw
+#EXTINF:-1 tvg-id="" tvg-name="西安影视" tvg-logo="" group-title="陕西卫视",西安影视
+http://192.168.1.7:5678/西安.php?id=xays
+#EXTINF:-1 tvg-id="" tvg-name="西安丝路" tvg-logo="" group-title="陕西卫视",西安丝路
+http://192.168.1.7:5678/西安.php?id=xasl
+#EXTINF:-1 tvg-id="" tvg-name="西安乐购购物" tvg-logo="" group-title="陕西卫视",西安乐购购物
+http://192.168.1.7:5678/西安.php?id=xagw
+#EXTINF:-1 tvg-id="" tvg-name="西安移动电视" tvg-logo="" group-title="陕西卫视",西安移动电视
+http://192.168.1.7:5678/西安.php?id=xayd
+#EXTINF:-1 tvg-id="" tvg-name="生活频道" tvg-logo="" group-title="陕西卫视",生活频道
+http://192.168.1.7:5678/xian.php?id=slpd
+
+#EXTINF:-1 tvg-id="" tvg-name="杭州综合" tvg-logo="" group-title="杭州卫视",杭州综合
+http://192.168.1.7:5678/hangzhou.php?id=hzzh
+#EXTINF:-1 tvg-id="" tvg-name="杭州明珠" tvg-logo="" group-title="杭州卫视",杭州明珠
+http://192.168.1.7:5678/hangzhou.php?id=hzmz
+#EXTINF:-1 tvg-id="" tvg-name="杭州生活" tvg-logo="" group-title="杭州卫视",杭州生活
+http://192.168.1.7:5678/hangzhou.php?id=hzsh
+#EXTINF:-1 tvg-id="" tvg-name="杭州影视" tvg-logo="" group-title="杭州卫视",杭州影视
+http://192.168.1.7:5678/hangzhou.php?id=hzys
+#EXTINF:-1 tvg-id="" tvg-name="杭州青少体育" tvg-logo="" group-title="杭州卫视",杭州青少体育
+http://192.168.1.7:5678/hangzhou.php?id=hzqsty
+#EXTINF:-1 tvg-id="" tvg-name="杭州导视" tvg-logo="" group-title="杭州卫视",杭州导视
+http://192.168.1.7:5678/hangzhou.php?id=hzds
+#EXTINF:-1 tvg-id="" tvg-name="富阳新闻综合" tvg-logo="" group-title="杭州卫视",富阳新闻综合
+http://192.168.1.7:5678/hangzhou.php?id=fyxwzh
+#EXTINF:-1 tvg-id="" tvg-name="宁波新闻综合" tvg-logo="" group-title="宁波频道",宁波新闻综合频道
+http://192.168.1.7:5678/ningbo.php?id=xwzh
+#EXTINF:-1 tvg-id="" tvg-name="宁波生活生活" tvg-logo="" group-title="宁波频道",宁波生活生活频道
+http://192.168.1.7:5678/ningbo.php?id=shsh
+#EXTINF:-1 tvg-id="" tvg-name="宁波文化娱乐" tvg-logo="" group-title="宁波频道",宁波文化娱乐频道
+http://192.168.1.7:5678/ningbo.php?id=whyl
+#EXTINF:-1 tvg-id="" tvg-name="宁波影视剧场" tvg-logo="" group-title="宁波频道",宁波影视剧场频道
+http://192.168.1.7:5678/ningbo.php?id=ysjc
+#EXTINF:-1 tvg-id="" tvg-name="磐安新闻综合" tvg-logo="" group-title="浙江磐安",磐安新闻综合频道
+http://192.168.1.7:5678/panan.php?id=paxwzh
+#EXTINF:-1 tvg-id="" tvg-name="磐安文化娱乐" tvg-logo="" group-title="浙江磐安",磐安文化娱乐频道
+http://192.168.1.7:5678/panan.php?id=pawhly
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视4K" tvg-logo="" group-title="江苏卫视",江苏卫视4K
+http://192.168.1.7:5678/jstv.php?id=jsws4k
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="江苏卫视",江苏卫视
+http://192.168.1.7:5678/jstv.php?id=jsws
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏城市" tvg-logo="" group-title="江苏卫视",江苏城市
+http://192.168.1.7:5678/jstv.php?id=jscs
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏综艺" tvg-logo="" group-title="江苏卫视",江苏综艺
+http://192.168.1.7:5678/jstv.php?id=jszy
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏影视" tvg-logo="" group-title="江苏卫视",江苏影视
+http://192.168.1.7:5678/jstv.php?id=jsys
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏新闻" tvg-logo="" group-title="江苏卫视",江苏新闻
+http://192.168.1.7:5678/jstv.php?id=jsxw
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏体育休闲" tvg-logo="" group-title="江苏卫视",江苏体育休闲
+http://192.168.1.7:5678/jstv.php?id=jsty
+
+#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="" group-title="江苏卫视",优漫卡通
+http://192.168.1.7:5678/jstv.php?id=jskt
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏国际" tvg-logo="" group-title="江苏卫视",江苏国际
+http://192.168.1.7:5678/jstv.php?id=jsgj
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏教育" tvg-logo="" group-title="江苏卫视",江苏教育
+http://192.168.1.7:5678/jstv.php?id=jsjy
+
+#EXTINF:-1 tvg-id="" tvg-name="南京新闻综合" tvg-logo="" group-title="江苏卫视",南京新闻综合
+http://192.168.1.7:5678/jstv.php?id=njxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="溧水新闻综合" tvg-logo="" group-title="江苏卫视",溧水新闻综合
+http://192.168.1.7:5678/jstv.php?id=lsxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="江宁综合" tvg-logo="" group-title="江苏卫视",江宁综合
+http://192.168.1.7:5678/jstv.php?id=jlzh
+
+#EXTINF:-1 tvg-id="" tvg-name="六合新闻综合" tvg-logo="" group-title="江苏卫视",六合新闻综合
+http://192.168.1.7:5678/jstv.php?id=lhxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="无锡新闻综合" tvg-logo="" group-title="江苏卫视",无锡新闻综合
+http://192.168.1.7:5678/jstv.php?id=wxxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="宜心新闻综合" tvg-logo="" group-title="江苏卫视",宜心新闻综合
+http://192.168.1.7:5678/jstv.php?id=yxxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="江阴新闻综合" tvg-logo="" group-title="江苏卫视",江阴新闻综合
+http://192.168.1.7:5678/jstv.php?id=jyxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="徐州1套" tvg-logo="" group-title="江苏卫视",徐州1套
+http://192.168.1.7:5678/jstv.php?id=xz1
+
+#EXTINF:-1 tvg-id="" tvg-name="睢宁综合" tvg-logo="" group-title="江苏卫视",睢宁综合
+http://192.168.1.7:5678/jstv.php?id=snzh
+
+#EXTINF:-1 tvg-id="" tvg-name="邳州综合" tvg-logo="" group-title="江苏卫视",邳州综合
+http://192.168.1.7:5678/jstv.php?id=pzzh
+
+#EXTINF:-1 tvg-id="" tvg-name="新沂新闻综合" tvg-logo="" group-title="江苏卫视",新沂新闻综合
+http://192.168.1.7:5678/jstv.php?id=xyxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="贾汪新闻" tvg-logo="" group-title="江苏卫视",贾汪新闻
+http://192.168.1.7:5678/jstv.php?id=jwxw
+
+#EXTINF:-1 tvg-id="" tvg-name="铜山1套" tvg-logo="" group-title="江苏卫视",铜山1套
+http://192.168.1.7:5678/jstv.php?id=ts1
+
+#EXTINF:-1 tvg-id="" tvg-name="沛县新闻综合" tvg-logo="" group-title="江苏卫视",沛县新闻综合
+http://192.168.1.7:5678/jstv.php?id=pxxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="常州新闻综合" tvg-logo="" group-title="江苏卫视",常州新闻综合
+http://192.168.1.7:5678/jstv.php?id=czxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="武进新闻综合" tvg-logo="" group-title="江苏卫视",武进新闻综合
+http://192.168.1.7:5678/jstv.php?id=wjxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="金坛综合" tvg-logo="" group-title="江苏卫视",金坛综合
+http://192.168.1.7:5678/jstv.php?id=jtzh
+
+#EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="" group-title="江苏卫视",苏州新闻综合
+http://192.168.1.7:5678/jstv.php?id=szxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="常熟综合" tvg-logo="" group-title="江苏卫视",常熟综合
+http://192.168.1.7:5678/jstv.php?id=cszh
+
+#EXTINF:-1 tvg-id="" tvg-name="吴江新闻综合" tvg-logo="" group-title="江苏卫视",吴江新闻综合
+http://192.168.1.7:5678/jstv.php?id=wjxw
+
+#EXTINF:-1 tvg-id="" tvg-name="张家港新闻综合" tvg-logo="" group-title="江苏卫视",张家港新闻综合
+http://192.168.1.7:5678/jstv.php?id=zjgzh
+
+#EXTINF:-1 tvg-id="" tvg-name="南通新闻综合" tvg-logo="" group-title="江苏卫视",南通新闻综合
+http://192.168.1.7:5678/jstv.php?id=ntxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="海安综合" tvg-logo="" group-title="江苏卫视",海安综合
+http://192.168.1.7:5678/jstv.php?id=hazh
+
+#EXTINF:-1 tvg-id="" tvg-name="如东1套" tvg-logo="" group-title="江苏卫视",如东1套
+http://192.168.1.7:5678/jstv.php?id=rd1
+
+#EXTINF:-1 tvg-id="" tvg-name="海门新闻综合" tvg-logo="" group-title="江苏卫视",海门新闻综合
+http://192.168.1.7:5678/jstv.php?id=hmxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="连云港新闻综合" tvg-logo="" group-title="江苏卫视",连云港新闻综合
+http://192.168.1.7:5678/jstv.php?id=lygxw
+
+#EXTINF:-1 tvg-id="" tvg-name="赣榆综合" tvg-logo="" group-title="江苏卫视",赣榆综合
+http://192.168.1.7:5678/jstv.php?id=gyzh
+
+#EXTINF:-1 tvg-id="" tvg-name="东海综合" tvg-logo="" group-title="江苏卫视",东海综合
+http://192.168.1.7:5678/jstv.php?id=dhzh
+
+#EXTINF:-1 tvg-id="" tvg-name="淮安综合" tvg-logo="" group-title="江苏卫视",淮安综合
+http://192.168.1.7:5678/jstv.php?id=haxw
+
+#EXTINF:-1 tvg-id="" tvg-name="淮阴综合" tvg-logo="" group-title="江苏卫视",淮阴综合
+http://192.168.1.7:5678/jstv.php?id=hyzh
+
+#EXTINF:-1 tvg-id="" tvg-name="涟水综合" tvg-logo="" group-title="江苏卫视",涟水综合
+http://192.168.1.7:5678/jstv.php?id=lszh
+
+#EXTINF:-1 tvg-id="" tvg-name="盱眙综合" tvg-logo="" group-title="江苏卫视",盱眙综合
+http://192.168.1.7:5678/jstv.php?id=xyzh
+
+#EXTINF:-1 tvg-id="" tvg-name="洪泽1套" tvg-logo="" group-title="江苏卫视",洪泽1套
+http://192.168.1.7:5678/jstv.php?id=hz1
+
+#EXTINF:-1 tvg-id="" tvg-name="金湖综合" tvg-logo="" group-title="江苏卫视",金湖综合
+http://192.168.1.7:5678/jstv.php?id=jhxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="盐城1套" tvg-logo="" group-title="江苏卫视",盐城1套
+http://192.168.1.7:5678/jstv.php?id=yc1
+
+#EXTINF:-1 tvg-id="" tvg-name="盐都综合" tvg-logo="" group-title="江苏卫视",盐都综合
+http://192.168.1.7:5678/jstv.php?id=ydzh
+
+#EXTINF:-1 tvg-id="" tvg-name="响水综合" tvg-logo="" group-title="江苏卫视",响水综合
+http://192.168.1.7:5678/jstv.php?id=xszh
+
+#EXTINF:-1 tvg-id="" tvg-name="东台1套" tvg-logo="" group-title="江苏卫视",东台1套
+http://192.168.1.7:5678/jstv.php?id=dt1
+
+#EXTINF:-1 tvg-id="" tvg-name="大丰1套" tvg-logo="" group-title="江苏卫视",大丰1套
+http://192.168.1.7:5678/jstv.php?id=df1
+
+#EXTINF:-1 tvg-id="" tvg-name="滨海新闻综合" tvg-logo="" group-title="江苏卫视",滨海新闻综合
+http://192.168.1.7:5678/jstv.php?id=bhxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="扬州1新闻" tvg-logo="" group-title="江苏卫视",扬州1新闻
+http://192.168.1.7:5678/jstv.php?id=yzxw
+
+#EXTINF:-1 tvg-id="" tvg-name="高邮1套" tvg-logo="" group-title="江苏卫视",高邮1套
+http://192.168.1.7:5678/jstv.php?id=gy1
+
+#EXTINF:-1 tvg-id="" tvg-name="邗江台" tvg-logo="" group-title="江苏卫视",邗江台
+http://192.168.1.7:5678/jstv.php?id=hjt
+
+#EXTINF:-1 tvg-id="" tvg-name="镇江新闻综合" tvg-logo="" group-title="江苏卫视",镇江新闻综合
+http://192.168.1.7:5678/jstv.php?id=zjxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="丹阳新闻" tvg-logo="" group-title="江苏卫视",丹阳新闻
+http://192.168.1.7:5678/jstv.php?id=dyxw
+
+#EXTINF:-1 tvg-id="" tvg-name="句容新闻综合" tvg-logo="" group-title="江苏卫视",句容新闻综合
+http://192.168.1.7:5678/jstv.php?id=jrzh
+
+#EXTINF:-1 tvg-id="" tvg-name="泰州1套" tvg-logo="" group-title="江苏卫视",泰州1套
+http://192.168.1.7:5678/jstv.php?id=tz1
+
+#EXTINF:-1 tvg-id="" tvg-name="泰兴综合" tvg-logo="" group-title="江苏卫视",泰兴综合
+http://192.168.1.7:5678/jstv.php?id=txzh
+
+#EXTINF:-1 tvg-id="" tvg-name="兴化新闻综合" tvg-logo="" group-title="江苏卫视",兴化新闻综合
+http://192.168.1.7:5678/jstv.php?id=xhxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="靖江新闻" tvg-logo="" group-title="江苏卫视",靖江新闻
+http://192.168.1.7:5678/jstv.php?id=jjxw
+
+#EXTINF:-1 tvg-id="" tvg-name="宿迁综合" tvg-logo="" group-title="江苏卫视",宿迁综合
+http://192.168.1.7:5678/jstv.php?id=sqzh
+
+#EXTINF:-1 tvg-id="" tvg-name="宿豫综合" tvg-logo="" group-title="江苏卫视",宿豫综合
+http://192.168.1.7:5678/jstv.php?id=syxwzh
+
+#EXTINF:-1 tvg-id="" tvg-name="泗洪综合" tvg-logo="" group-title="江苏卫视",泗洪综合
+http://192.168.1.7:5678/jstv.php?id=shzh
+
+#EXTINF:-1 tvg-id="" tvg-name="泗阳综合" tvg-logo="" group-title="江苏卫视",泗阳综合
+http://192.168.1.7:5678/jstv.php?id=syxw
+
+#EXTINF:-1 tvg-id="" tvg-name="沭阳综合" tvg-logo="" group-title="江苏卫视",沭阳综合
+http://192.168.1.7:5678/jstv.php?id=syzh
+
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="浙江卫视",浙江卫视 (1080P)
+https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="浙江卫视",浙江卫视 (720P)
+https://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-5db0c78ba3a42d4005ada143d24b1318
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="浙江卫视",浙江卫视 (480P)
+https://zwebl02.cztv.com/live/channel01480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-038a74e875522aced87d044b36c735cb
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-logo="" group-title="浙江卫视",浙江钱江 (1080P)
+https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-00cc26403bae15d2d0ef1c4380e4664f
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-logo="" group-title="浙江卫视",浙江钱江 (720P)
+https://zwebl02.cztv.com/live/channel02720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-8950bec4e67c57302e020eff06a025c2
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-logo="" group-title="浙江卫视",浙江钱江 (480P)
+https://zwebl02.cztv.com/live/channel02480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-27ef9ee76ac166cd05a90eb3a5ae28f0
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="" group-title="浙江卫视",浙江经济生活 (1080P)
+https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-b4fe6682a137b6739ec212c93c5a8def
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="" group-title="浙江卫视",浙江经济生活 (720P)
+https://zwebl02.cztv.com/live/channel03720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-021c441b5cbce1a2c1a8286c3c8fadef
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="" group-title="浙江卫视",浙江经济生活 (480P)
+https://zwebl02.cztv.com/live/channel03480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-8ed1fd0c1e972eb4c5097f4f0270c8ff
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科影视" tvg-logo="" group-title="浙江卫视",浙江教科影视 (1080P)
+https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9c4515bba4ac0ad426356b260449477f
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科影视" tvg-logo="" group-title="浙江卫视",浙江教科影视 (720P)
+https://zwebl02.cztv.com/live/channel04720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-94359d4013954b14939b597ff3b997c1
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科影视" tvg-logo="" group-title="浙江卫视",浙江教科影视 (480P)
+https://zwebl02.cztv.com/live/channel04480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-f83abba4cab3b90813245377485c777f
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-logo="" group-title="浙江卫视",浙江民生休闲 (1080P)
+https://zwebl02.cztv.com/live/channel061080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-282c3b532279f2b8bad8ebde1b41632f
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-logo="" group-title="浙江卫视",浙江民生休闲 (720P)
+https://zwebl02.cztv.com/live/channel06720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-10569ac2ab1d158a98588ce92da5bcff
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-logo="" group-title="浙江卫视",浙江民生休闲 (480P)
+https://zwebl02.cztv.com/live/channel06480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-1302d51718da4992f137930e4a5759dc
+#EXTINF:-1 tvg-id="" tvg-name="浙江新闻" tvg-logo="" group-title="浙江卫视",浙江新闻 (1080P)
+https://zwebl02.cztv.com/live/channel071080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-d7a412e81007d77a8c8e9b582efd7ee3
+#EXTINF:-1 tvg-id="" tvg-name="浙江新闻" tvg-logo="" group-title="浙江卫视",浙江新闻 (720P)
+https://zwebl02.cztv.com/live/channel07720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-e6e1b1f81f29bf69ed3fd03e0815fcde
+#EXTINF:-1 tvg-id="" tvg-name="浙江新闻" tvg-logo="" group-title="浙江卫视",浙江新闻 (480P)
+https://zwebl02.cztv.com/live/channel07480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-6fc014c83af87cafeeb92da41dfe2777
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="" group-title="浙江卫视",浙江少儿 (1080P)
+https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-668e5a5a00e74f14f426cc55210a4ff9
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="" group-title="浙江卫视",浙江少儿 (720P)
+https://zwebl02.cztv.com/live/channel08720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-636f6d76a410a8bad3e323dc1770cfca
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="" group-title="浙江卫视",浙江少儿 (480P)
+https://zwebl02.cztv.com/live/channel08480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-88234ee00e6131264b88856a7d47073c
+#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="" group-title="浙江卫视",浙江国际 (1080P)
+https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-895310d00bcd28384a9238088f08375a
+#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="" group-title="浙江卫视",浙江国际 (720P)
+https://zwebl02.cztv.com/live/channel10720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-03360df4dd2c0ec2ad035ebefb34f1b4
+#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="" group-title="浙江卫视",浙江国际 (480P)
+https://zwebl02.cztv.com/live/channel10480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-62b6391e987cb8ce509766d1fd51b5e1
+#EXTINF:-1 tvg-id="" tvg-name="浙江好易购" tvg-logo="" group-title="浙江卫视",浙江好易购 (1080P)
+https://zwebl02.cztv.com/live/channel111080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-4031fb2187f8f6a4f63d037744b0aec6
+#EXTINF:-1 tvg-id="" tvg-name="浙江好易购" tvg-logo="" group-title="浙江卫视",浙江好易购 (720P)
+https://zwebl02.cztv.com/live/channel11720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-9bdaca298988a365681f385923677ebb
+#EXTINF:-1 tvg-id="" tvg-name="浙江好易购" tvg-logo="" group-title="浙江卫视",浙江好易购 (480P)
+https://zwebl02.cztv.com/live/channel11480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-f55d8ab5c794731b3f90ddeeccdbedc7
+#EXTINF:-1 tvg-id="" tvg-name="浙江之江纪录" tvg-logo="" group-title="浙江卫视",浙江之江纪录 (1080P)
+https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1
+#EXTINF:-1 tvg-id="" tvg-name="浙江之江纪录" tvg-logo="" group-title="浙江卫视",浙江之江纪录 (720P)
+https://zwebl02.cztv.com/live/channel12720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-33803f0436efafb53962428c2831fb11
+#EXTINF:-1 tvg-id="" tvg-name="浙江之江纪录" tvg-logo="" group-title="浙江卫视",浙江之江纪录 (480P)
+https://zwebl02.cztv.com/live/channel12480Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-20494f61aaa79949fedbe5a75d1030f3
+#EXTINF:-1 tvg-id="" tvg-name="鄂州新闻综合" tvg-logo="" group-title="湖北卫视",鄂州新闻综合
+http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043
+#EXTINF:-1 tvg-id="" tvg-name="鄂州公共" tvg-logo="" group-title="湖北卫视",鄂州公共
+http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-ab320ba90f39f94baba04e30ff07c52e
+#EXTINF:-1 tvg-id="" tvg-name="武穴综合" tvg-logo="" group-title="湖北卫视",武穴综合
+http://dsk.cc/hubtv/cjy.php?id=wxzh
+#EXTINF:-1 tvg-id="" tvg-name="罗田综合" tvg-logo="" group-title="湖北卫视",罗田综合
+http://dsk.cc/hubtv/cjy.php?id=ltzh
+#EXTINF:-1 tvg-id="" tvg-name="黄石新闻综合" tvg-logo="" group-title="湖北卫视",黄石新闻综合
+http://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-e22af05072c6fa8bc1fc35e042e97467
+#EXTINF:-1 tvg-id="" tvg-name="大冶一套" tvg-logo="" group-title="湖北卫视",大冶一套
+http://dayeyun-live21.cjyun.org/10102/s10102-TC1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-c3d27fbc279c3efc9187853aca3da012
+#EXTINF:-1 tvg-id="" tvg-name="阳新新闻" tvg-logo="" group-title="湖北卫视",阳新新闻
+http://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a27d99b67d0e39445f1df5ea6ad088ec
+#EXTINF:-1 tvg-id="" tvg-name="咸宁综合" tvg-logo="" group-title="湖北卫视",咸宁综合
+http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fea9ed9b2105c8e66da382be47a0acae
+#EXTINF:-1 tvg-id="" tvg-name="咸宁经济生活" tvg-logo="" group-title="湖北卫视",咸宁经济生活
+http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-8cb875770938fdeb7179752f74e13062
+#EXTINF:-1 tvg-id="" tvg-name="赤壁一套" tvg-logo="" group-title="湖北卫视",赤壁一套
+http://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-a9f4eb22b55c750628c090d53a445bbc
+#EXTINF:-1 tvg-id="" tvg-name="嘉鱼新闻综合" tvg-logo="" group-title="湖北卫视",嘉鱼新闻综合
+http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-9ca56ee7b0e7b23d7ccb3f6649b2686a
+#EXTINF:-1 tvg-id="" tvg-name="通山综合" tvg-logo="" group-title="湖北卫视",通山综合
+http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-23ad1b5ada69ec0d4796d8227f737ca6
+#EXTINF:-1 tvg-id="" tvg-name="孝感新闻综合" tvg-logo="" group-title="湖北卫视",孝感新闻综合
+http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2286294457518d52f02d91906380d72a
+#EXTINF:-1 tvg-id="" tvg-name="孝感生活" tvg-logo="" group-title="湖北卫视",孝感生活
+http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-1d24a98d45449c0f85cda4bddc5d72a6
+#EXTINF:-1 tvg-id="" tvg-name="孝昌新闻党建*" tvg-logo="" group-title="湖北卫视",孝昌新闻党建*
+http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-948b2cf2777e352d9f83660c9b79aa3f
+#EXTINF:-1 tvg-id="" tvg-name="应城综合" tvg-logo="" group-title="湖北卫视",应城综合
+http://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-683be43745bd3709006be7b43135de61
+#EXTINF:-1 tvg-id="" tvg-name="荆州新闻" tvg-logo="" group-title="湖北卫视",荆州新闻
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2bb0015980b1b3742cea1d78f13eb6ca
+#EXTINF:-1 tvg-id="" tvg-name="荆州垄上" tvg-logo="" group-title="湖北卫视",荆州垄上
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-7dff02969ff316d795ac73c86747fd05
+#EXTINF:-1 tvg-id="" tvg-name="松滋综合" tvg-logo="" group-title="湖北卫视",松滋综合
+http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-388ba0519fa8a2846925a78282f2aa1f
+#EXTINF:-1 tvg-id="" tvg-name="江陵综合" tvg-logo="" group-title="湖北卫视",江陵综合
+http://dsk.cc/hubtv/cjy.php?id=jlzh
+#EXTINF:-1 tvg-id="" tvg-name="襄阳综合" tvg-logo="" group-title="湖北卫视",襄阳综合
+http://dsk.cc/hubtv/cjy.php?id=xyzh
+#EXTINF:-1 tvg-id="" tvg-name="襄阳公共" tvg-logo="" group-title="湖北卫视",襄阳公共
+http://dsk.cc/hubtv/cjy.php?id=xygg
+#EXTINF:-1 tvg-id="" tvg-name="襄阳经济生活" tvg-logo="" group-title="湖北卫视",襄阳经济生活
+http://dsk.cc/hubtv/cjy.php?id=xysh
+#EXTINF:-1 tvg-id="" tvg-name="谷城综合" tvg-logo="" group-title="湖北卫视",谷城综合
+http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b8eee5fa844d684da58e16386fdc88c8
+#EXTINF:-1 tvg-id="" tvg-name="长阳综合" tvg-logo="" group-title="湖北卫视",长阳综合
+http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-c16910d50f308ea1150ce2648945a081
+#EXTINF:-1 tvg-id="" tvg-name="当阳电视台" tvg-logo="" group-title="湖北卫视",当阳电视台
+http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-68ad690365557a3ecc64c751a1b02f4a
+#EXTINF:-1 tvg-id="" tvg-name="五峰电视台" tvg-logo="" group-title="湖北卫视",五峰电视台
+http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-06846ff2e035fdacd3bed68838375e5f
+#EXTINF:-1 tvg-id="" tvg-name="兴山综合" tvg-logo="" group-title="湖北卫视",兴山综合
+http://xingshan-live21.cjyun.org/10108/s10108-xingshanTV01.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-dafdeaf8f8034a40ebc17a1f8f3a603f
+#EXTINF:-1 tvg-id="" tvg-name="枝江综合" tvg-logo="" group-title="湖北卫视",枝江综合
+http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-16e87303959711040a8b485858a82a78
+#EXTINF:-1 tvg-id="" tvg-name="丹江口综合" tvg-logo="" group-title="湖北卫视",丹江口综合
+http://dsk.cc/hubtv/cjy.php?id=djkzh
+#EXTINF:-1 tvg-id="" tvg-name="鹤峰综合" tvg-logo="" group-title="湖北卫视",鹤峰综合
+http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b42f6cb29eb3b901079113901761aa96
+#EXTINF:-1 tvg-id="" tvg-name="JLZH" tvg-logo="" group-title="湖北卫视",JLZH
+http://192.168.1.7:5678/hbxy.php?id=jlzh
+#EXTINF:-1 tvg-id="" tvg-name="XYZH" tvg-logo="" group-title="湖北卫视",XYZH
+http://192.168.1.7:5678/hbxy.php?id=xyzh
+#EXTINF:-1 tvg-id="" tvg-name="XYSH" tvg-logo="" group-title="湖北卫视",XYSH
+http://192.168.1.7:5678/hbxy.php?id=xysh
+#EXTINF:-1 tvg-id="" tvg-name="XYGG" tvg-logo="" group-title="湖北卫视",XYGG
+http://192.168.1.7:5678/hbxy.php?id=xygg
+#EXTINF:-1 tvg-id="" tvg-name="WXZH" tvg-logo="" group-title="湖北卫视",WXZH
+http://192.168.1.7:5678/hbxy.php?id=wxzh
+#EXTINF:-1 tvg-id="" tvg-name="LTZH" tvg-logo="" group-title="湖北卫视",LTZH
+http://192.168.1.7:5678/hbxy.php?id=ltzh
+#EXTINF:-1 tvg-id="" tvg-name="DJKZH" tvg-logo="" group-title="湖北卫视",DJKZH
+http://192.168.1.7:5678/hbxy.php?id=djkzh
+
+
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="山西卫视",山西卫视
+http://192.168.1.7:5678/taiyuan.php?id=q8RVWgs
+#EXTINF:-1 tvg-id="" tvg-name="山西影视" tvg-logo="" group-title="山西卫视",山西影视
+http://192.168.1.7:5678/taiyuan.php?id=Md571Kv
+#EXTINF:-1 tvg-id="" tvg-name="山西经济与科技" tvg-logo="" group-title="山西卫视",山西经济与科技
+http://192.168.1.7:5678/taiyuan.php?id=4j01KWX
+#EXTINF:-1 tvg-id="" tvg-name="山西文体生活" tvg-logo="" group-title="山西卫视",山西文体生活
+http://192.168.1.7:5678/taiyuan.php?id=Y00Xezi
+#EXTINF:-1 tvg-id="" tvg-name="山西社会与法治" tvg-logo="" group-title="山西卫视",山西社会与法治
+http://192.168.1.7:5678/taiyuan.php?id=p4y5do9
+#EXTINF:-1 tvg-id="" tvg-name="黄河电视台" tvg-logo="" group-title="山西卫视",黄河电视台
+http://192.168.1.7:5678/taiyuan.php?id=lce1mC4
+#EXTINF:-1 tvg-id="" tvg-name="太原" tvg-logo="" group-title="山西卫视",太原
+http://192.168.1.7:5678/taiyuan.php?id=customa
+#EXTINF:-1 tvg-id="" tvg-name="大同" tvg-logo="" group-title="山西卫视",大同
+http://192.168.1.7:5678/taiyuan.php?id=customb
+#EXTINF:-1 tvg-id="" tvg-name="阳泉" tvg-logo="" group-title="山西卫视",阳泉
+http://192.168.1.7:5678/taiyuan.php?id=customc
+#EXTINF:-1 tvg-id="" tvg-name="长治" tvg-logo="" group-title="山西卫视",长治
+http://192.168.1.7:5678/taiyuan.php?id=customd
+#EXTINF:-1 tvg-id="" tvg-name="晋城" tvg-logo="" group-title="山西卫视",晋城
+http://192.168.1.7:5678/taiyuan.php?id=custome
+#EXTINF:-1 tvg-id="" tvg-name="朔州" tvg-logo="" group-title="山西卫视",朔州
+http://192.168.1.7:5678/taiyuan.php?id=customf
+#EXTINF:-1 tvg-id="" tvg-name="晋中" tvg-logo="" group-title="山西卫视",晋中
+http://192.168.1.7:5678/taiyuan.php?id=customg
+#EXTINF:-1 tvg-id="" tvg-name="运城" tvg-logo="" group-title="山西卫视",运城
+http://192.168.1.7:5678/taiyuan.php?id=customh
+#EXTINF:-1 tvg-id="" tvg-name="忻州" tvg-logo="" group-title="山西卫视",忻州
+http://192.168.1.7:5678/taiyuan.php?id=customi
+#EXTINF:-1 tvg-id="" tvg-name="临汾" tvg-logo="" group-title="山西卫视",临汾
+http://192.168.1.7:5678/taiyuan.php?id=customj
+#EXTINF:-1 tvg-id="" tvg-name="吕梁" tvg-logo="" group-title="山西卫视",吕梁
+http://192.168.1.7:5678/taiyuan.php?id=customk
+
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古新闻综合" tvg-logo="" group-title="内蒙古卫视",内蒙古新闻综合
+http://192.168.1.7:5678/nmg.php?id=nmxwzh
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古经济生活" tvg-logo="" group-title="内蒙古卫视",内蒙古经济生活
+http://192.168.1.7:5678/nmg.php?id=nmjjsh
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古少儿" tvg-logo="" group-title="内蒙古卫视",内蒙古少儿
+http://192.168.1.7:5678/nmg.php?id=nmse
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古文体娱乐" tvg-logo="" group-title="内蒙古卫视",内蒙古文体娱乐
+http://192.168.1.7:5678/nmg.php?id=nmwtyl
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古农牧" tvg-logo="" group-title="内蒙古卫视",内蒙古农牧
+http://192.168.1.7:5678/nmg.php?id=nmnm
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古文化" tvg-logo="" group-title="内蒙古卫视",内蒙古文化
+http://192.168.1.7:5678/nmg.php?id=nmwh
+#EXTINF:-1 tvg-id="" tvg-name="呼和浩特新闻综合" tvg-logo="" group-title="内蒙古卫视",呼和浩特新闻综合
+http://192.168.1.7:5678/nmg.php?id=hhht1
+#EXTINF:-1 tvg-id="" tvg-name="锡林郭勒" tvg-logo="" group-title="内蒙古卫视",锡林郭勒
+http://192.168.1.7:5678/nmg.php?id=xlgl1
+#EXTINF:-1 tvg-id="" tvg-name="阿拉善新闻综合" tvg-logo="" group-title="内蒙古卫视",阿拉善新闻综合
+http://192.168.1.7:5678/nmg.php?id=als1
+#EXTINF:-1 tvg-id="" tvg-name="巴彦淖尔" tvg-logo="" group-title="内蒙古卫视",巴彦淖尔
+http://192.168.1.7:5678/nmg.php?id=byle1
+#EXTINF:-1 tvg-id="" tvg-name="鄂尔多斯" tvg-logo="" group-title="内蒙古卫视",鄂尔多斯
+http://192.168.1.7:5678/nmg.php?id=erds1
+#EXTINF:-1 tvg-id="" tvg-name="赤峰新闻综合" tvg-logo="" group-title="内蒙古卫视",赤峰新闻综合
+http://192.168.1.7:5678/nmg.php?id=cf1
+#EXTINF:-1 tvg-id="" tvg-name="通辽新闻综合" tvg-logo="" group-title="内蒙古卫视",通辽新闻综合
+http://192.168.1.7:5678/nmg.php?id=tl1
+#EXTINF:-1 tvg-id="" tvg-name="乌兰察布" tvg-logo="" group-title="内蒙古卫视",乌兰察布
+http://192.168.1.7:5678/nmg.php?id=wlcb1
+#EXTINF:-1 tvg-id="" tvg-name="乌海新闻综合" tvg-logo="" group-title="内蒙古卫视",乌海新闻综合
+http://192.168.1.7:5678/nmg.php?id=wh1
+#EXTINF:-1 tvg-id="" tvg-name="呼伦贝尔新闻综合" tvg-logo="" group-title="内蒙古卫视",呼伦贝尔新闻综合
+http://192.168.1.7:5678/nmg.php?id=hlbe1
+#EXTINF:-1 tvg-id="" tvg-name="兴安新闻综合" tvg-logo="" group-title="内蒙古卫视",兴安新闻综合
+http://192.168.1.7:5678/nmg.php?id=xa1
+#EXTINF:-1 tvg-id="" tvg-name="包头新闻综合" tvg-logo="" group-title="内蒙古卫视",包头新闻综合
+http://192.168.1.7:5678/nmg.php?id=bt1
+#EXTINF:-1 tvg-id="" tvg-name="兰州新闻综合" tvg-logo="" group-title="兰州频道",兰州新闻综合频道
+http://192.168.1.7:5678/lanzhou.php?id=lzxwzh
+#EXTINF:-1 tvg-id="" tvg-name="兰州文旅" tvg-logo="" group-title="兰州频道",兰州文旅频道
+http://192.168.1.7:5678/lanzhou.php?id=lzwl
+#EXTINF:-1 tvg-id="" tvg-name="兰州综合广播" tvg-logo="" group-title="兰州频道",兰州综合广播
+http://192.168.1.7:5678/lanzhou.php?id=lzzhgb
+#EXTINF:-1 tvg-id="" tvg-name="兰州音乐广播" tvg-logo="" group-title="兰州频道",兰州音乐广播
+http://192.168.1.7:5678/lanzhou.php?id=lzyygb
+#EXTINF:-1 tvg-id="" tvg-name="兰州文艺广播" tvg-logo="" group-title="兰州频道",兰州文艺广播
+http://192.168.1.7:5678/lanzhou.php?id=lzwygb
+#EXTINF:-1 tvg-id="" tvg-name="西藏频道1" tvg-logo="" group-title="西藏珠峰云",西藏频道1
+http://192.168.1.7:5678/xizang.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="西藏频道2" tvg-logo="" group-title="西藏珠峰云",西藏频道2
+http://192.168.1.7:5678/xizang.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="西藏频道3" tvg-logo="" group-title="西藏珠峰云",西藏频道3
+http://192.168.1.7:5678/xizang.php?id=3
+#EXTINF:-1 tvg-id="" tvg-name="徐州新闻综合" tvg-logo="" group-title="徐州频道",徐州新闻综合频道
+http://192.168.1.7:5678/xuzhou.php?id=46
+#EXTINF:-1 tvg-id="" tvg-name="徐州生活频道" tvg-logo="" group-title="徐州频道",徐州生活频道
+http://192.168.1.7:5678/xuzhou.php?id=47
+#EXTINF:-1 tvg-id="" tvg-name="徐州影视娱乐" tvg-logo="" group-title="徐州频道",徐州影视娱乐频道
+http://192.168.1.7:5678/xuzhou.php?id=48
+#EXTINF:-1 tvg-id="" tvg-name="徐州公共频道" tvg-logo="" group-title="徐州频道",徐州公共频道
+http://192.168.1.7:5678/xuzhou.php?id=49
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="云南频道",云南卫视
+http://192.168.1.7:5678/yunnan.php?id=62hdvf%2F41hse3
+#EXTINF:-1 tvg-id="" tvg-name="云南都市" tvg-logo="" group-title="云南频道",云南都市
+http://192.168.1.7:5678/yunnan.php?id=62hdvf%2Frjwt14
+#EXTINF:-1 tvg-id="" tvg-name="云南娱乐" tvg-logo="" group-title="云南频道",云南娱乐
+http://192.168.1.7:5678/yunnan.php?id=62hdvf%2Fq9vs1b
+#EXTINF:-1 tvg-id="" tvg-name="云南影视" tvg-logo="" group-title="云南频道",云南影视
+http://192.168.1.7:5678/yunnan.php?id=62hdvf%2Futrat7
+#EXTINF:-1 tvg-id="" tvg-name="云南康旅" tvg-logo="" group-title="云南频道",云南康旅
+http://192.168.1.7:5678/yunnan.php?id=62hdvf%2F227q43
+#EXTINF:-1 tvg-id="" tvg-name="云南少儿" tvg-logo="" group-title="云南频道",云南少儿
+http://192.168.1.7:5678/yunnan.php?id=62hdvf%2F9ojsty
+#EXTINF:-1 tvg-id="" tvg-name="玉溪综合" tvg-logo="" group-title="云南频道",玉溪综合
+http://192.168.1.7:5678/yunnan.php?id=r5fc3f%2F4kzlat
+#EXTINF:-1 tvg-id="" tvg-name="玉溪社会与法" tvg-logo="" group-title="云南频道",玉溪社会与法
+http://192.168.1.7:5678/yunnan.php?id=r5fc3f%2F3l9g1m
+#EXTINF:-1 tvg-id="" tvg-name="临沧综合" tvg-logo="" group-title="云南频道",临沧综合
+http://192.168.1.7:5678/yunnan.php?id=6tt654%2F1i495z
+#EXTINF:-1 tvg-id="" tvg-name="临沧公共" tvg-logo="" group-title="云南频道",临沧公共
+http://192.168.1.7:5678/yunnan.php?id=6tt654%2Fdrfs5s
+#EXTINF:-1 tvg-id="" tvg-name="怒江新闻综合" tvg-logo="" group-title="云南频道",怒江新闻综合
+http://192.168.1.7:5678/yunnan.php?id=s5xpv2%2F9r4ei4
+#EXTINF:-1 tvg-id="" tvg-name="元江综合" tvg-logo="" group-title="云南频道",元江综合
+http://192.168.1.7:5678/yunnan.php?id=vu7hkj%2Fx6rer3
+#EXTINF:-1 tvg-id="" tvg-name="华坪综合" tvg-logo="" group-title="云南频道",华坪综合
+http://192.168.1.7:5678/yunnan.php?id=xfm214%2F198968
+#EXTINF:-1 tvg-id="" tvg-name="陆良新闻" tvg-logo="" group-title="云南频道",陆良新闻
+http://192.168.1.7:5678/yunnan.php?id=9327b6%2Fv8i7rf
+#EXTINF:-1 tvg-id="" tvg-name="洱源综合频道" tvg-logo="" group-title="云南频道",洱源综合频道
+http://192.168.1.7:5678/yunnan.php?id=d117oe%2Fmk98io
+#EXTINF:-1 tvg-id="" tvg-name="巍山综合频道" tvg-logo="" group-title="云南频道",巍山综合频道
+http://192.168.1.7:5678/yunnan.php?id=euxv6l%2F5q7637
+#EXTINF:-1 tvg-id="" tvg-name="龙陵综合频道" tvg-logo="" group-title="云南频道",龙陵综合频道
+http://192.168.1.7:5678/yunnan.php?id=ey0321%2Fl0vlci
+#EXTINF:-1 tvg-id="" tvg-name="云龙综合" tvg-logo="" group-title="云南频道",云龙综合
+http://192.168.1.7:5678/yunnan.php?id=b0231t%2Ff502oq
+#EXTINF:-1 tvg-id="" tvg-name="隆阳综合频道" tvg-logo="" group-title="云南频道",隆阳综合频道
+http://192.168.1.7:5678/yunnan.php?id=5a6l75%2F0w8p8m
+#EXTINF:-1 tvg-id="" tvg-name="耿马综合" tvg-logo="" group-title="云南频道",耿马综合
+http://192.168.1.7:5678/yunnan.php?id=48td74%2F1t0g2n
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="贵州频道",贵州卫视
+http://192.168.1.7:5678/guizhou.php?id=gzws
+#EXTINF:-1 tvg-id="" tvg-name="贵州公共" tvg-logo="" group-title="贵州频道",贵州公共
+http://192.168.1.7:5678/guizhou.php?id=gzgg
+#EXTINF:-1 tvg-id="" tvg-name="贵州文艺" tvg-logo="" group-title="贵州频道",贵州文艺
+http://192.168.1.7:5678/guizhou.php?id=gzwy
+#EXTINF:-1 tvg-id="" tvg-name="贵州生活" tvg-logo="" group-title="贵州频道",贵州生活
+http://192.168.1.7:5678/guizhou.php?id=gzsh
+#EXTINF:-1 tvg-id="" tvg-name="贵州-5" tvg-logo="" group-title="贵州频道",贵州-5
+http://192.168.1.7:5678/guizhou.php?id=gz5p
+#EXTINF:-1 tvg-id="" tvg-name="科教健康" tvg-logo="" group-title="贵州频道",科教健康
+http://192.168.1.7:5678/guizhou.php?id=kjjk
+#EXTINF:-1 tvg-id="" tvg-name="移动数字" tvg-logo="" group-title="贵州频道",移动数字
+http://192.168.1.7:5678/guizhou.php?id=ydsz
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="" group-title="海南卫视",海南卫视
+http://192.168.1.7:5678/hainan.php?id=hnws
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="" group-title="海南卫视",三沙卫视
+http://192.168.1.7:5678/hainan.php?id=ssws
+#EXTINF:-1 tvg-id="" tvg-name="新闻频道" tvg-logo="" group-title="海南卫视",新闻频道
+http://192.168.1.7:5678/hainan.php?id=xwpd
+#EXTINF:-1 tvg-id="" tvg-name="文旅频道" tvg-logo="" group-title="海南卫视",文旅频道
+http://192.168.1.7:5678/hainan.php?id=wlpd
+#EXTINF:-1 tvg-id="" tvg-name="经济频道" tvg-logo="" group-title="海南卫视",经济频道
+http://192.168.1.7:5678/hainan.php?id=jjpd
+#EXTINF:-1 tvg-id="" tvg-name="公共频道" tvg-logo="" group-title="海南卫视",公共频道
+http://192.168.1.7:5678/hainan.php?id=ggpd
+#EXTINF:-1 tvg-id="" tvg-name="少儿频道" tvg-logo="" group-title="海南卫视",少儿频道
+http://192.168.1.7:5678/hainan.php?id=sepd
+#EXTINF:-1 tvg-id="" tvg-name="桂林新闻综合" tvg-logo="" group-title="桂林频道",桂林新闻综合频道
+http://192.168.1.7:5678/guilin.php?id=xwzh
+#EXTINF:-1 tvg-id="" tvg-name="桂林公共" tvg-logo="" group-title="桂林频道",桂林公共频道
+http://192.168.1.7:5678/guilin.php?id=glgg
+#EXTINF:-1 tvg-id="" tvg-name="桂林科教" tvg-logo="" group-title="桂林频道",桂林科教频道
+http://192.168.1.7:5678/guilin.php?id=glkj
+#EXTINF:-1 tvg-id="" tvg-name="石家庄频道4" tvg-logo="" group-title="石家庄频道",石家庄频道4
+http://192.168.1.7:5678/sjz.php?id=4
+#EXTINF:-1 tvg-id="" tvg-name="石家庄频道5" tvg-logo="" group-title="石家庄频道",石家庄频道5
+http://192.168.1.7:5678/sjz.php?id=5
+#EXTINF:-1 tvg-id="" tvg-name="石家庄频道6" tvg-logo="" group-title="石家庄频道",石家庄频道6
+http://192.168.1.7:5678/sjz.php?id=6
+#EXTINF:-1 tvg-id="" tvg-name="石家庄频道7" tvg-logo="" group-title="石家庄频道",石家庄频道7
+http://192.168.1.7:5678/sjz.php?id=7
+#EXTINF:-1 tvg-id="" tvg-name="攀枝花综合" tvg-logo="" group-title="攀枝花频道",攀枝花综合频道
+http://192.168.1.7:5678/pzh.php?id=pzhzh
+#EXTINF:-1 tvg-id="" tvg-name="攀枝花文旅" tvg-logo="" group-title="攀枝花频道",攀枝花文旅频道
+http://192.168.1.7:5678/pzh.php?id=pzhwl
+
+#EXTM3U
+#EXTINF:-1 group-title="吉林卫视",吉林卫视
+http://192.168.1.7:5678/jst.php?id=1531
+#EXTINF:-1 group-title="吉林卫视",都市频道
+http://192.168.1.7:5678/jst.php?id=1532
+#EXTINF:-1 group-title="吉林卫视",生活频道
+http://192.168.1.7:5678/jst.php?id=1534
+#EXTINF:-1 group-title="吉林卫视",影视频道
+http://192.168.1.7:5678/jst.php?id=1535
+#EXTINF:-1 group-title="吉林卫视",乡村频道
+http://192.168.1.7:5678/jst.php?id=1536
+#EXTINF:-1 group-title="吉林卫视",综艺·文化频道
+http://192.168.1.7:5678/jst.php?id=1538
+#EXTINF:-1 group-title="吉林卫视",长春综合
+http://192.168.1.7:5678/jst.php?id=812402
+#EXTINF:-1 group-title="吉林卫视",吉林新闻综合
+http://192.168.1.7:5678/jst.php?id=812373
+#EXTINF:-1 group-title="吉林卫视",四平新闻综合
+http://192.168.1.7:5678/jst.php?id=812374
+#EXTINF:-1 group-title="吉林卫视",辽源新闻综合
+http://192.168.1.7:5678/jst.php?id=812376
+#EXTINF:-1 group-title="吉林卫视",通化新闻综合
+http://192.168.1.7:5678/jst.php?id=812379
+#EXTINF:-1 group-title="吉林卫视",白山新闻综合
+http://192.168.1.7:5678/jst.php?id=812383
+#EXTINF:-1 group-title="吉林卫视",白城新闻综合
+http://192.168.1.7:5678/jst.php?id=812380
+#EXTINF:-1 group-title="吉林卫视",松原新闻综合
+http://192.168.1.7:5678/jst.php?id=812382
+#EXTINF:-1 group-title="吉林卫视",延边卫视
+http://192.168.1.7:5678/jst.php?id=812244
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="广东卫视",广东卫视
+http://192.168.1.7:5678/gdtv.php?id=gdws
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="" group-title="广东卫视",广东珠江
+http://192.168.1.7:5678/gdtv.php?id=gdzj
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="" group-title="广东卫视",广东新闻
+http://192.168.1.7:5678/gdtv.php?id=gdxw
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="" group-title="广东卫视",广东民生
+http://192.168.1.7:5678/gdtv.php?id=gdms
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="" group-title="广东卫视",广东体育
+http://192.168.1.7:5678/gdtv.php?id=gdty
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="" group-title="广东卫视",大湾区卫视
+http://192.168.1.7:5678/gdtv.php?id=nfws
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视（海外版）" tvg-logo="" group-title="广东卫视",大湾区卫视（海外版）
+http://192.168.1.7:5678/gdtv.php?id=nfwshw
+#EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="" group-title="广东卫视",广东影视
+http://192.168.1.7:5678/gdtv.php?id=gdys
+#EXTINF:-1 tvg-id="" tvg-name="4k超高清" tvg-logo="" group-title="广东卫视",4k超高清
+http://192.168.1.7:5678/gdtv.php?id=gdzy
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="" group-title="广东卫视",广东少儿
+http://192.168.1.7:5678/gdtv.php?id=gdse
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="" group-title="广东卫视",嘉佳卡通
+http://192.168.1.7:5678/gdtv.php?id=jjkt
+#EXTINF:-1 tvg-id="" tvg-name="南方购物" tvg-logo="" group-title="广东卫视",南方购物
+http://192.168.1.7:5678/gdtv.php?id=nfgw
+#EXTINF:-1 tvg-id="" tvg-name="岭南戏曲" tvg-logo="" group-title="广东卫视",岭南戏曲
+http://192.168.1.7:5678/gdtv.php?id=lnxq
+#EXTINF:-1 tvg-id="" tvg-name="现代教育" tvg-logo="" group-title="广东卫视",现代教育
+http://192.168.1.7:5678/gdtv.php?id=xdjy
+#EXTINF:-1 tvg-id="" tvg-name="广东移动" tvg-logo="" group-title="广东卫视",广东移动
+http://192.168.1.7:5678/gdtv.php?id=gdyd
+#EXTINF:-1 tvg-id="" tvg-name="广东台经典剧" tvg-logo="" group-title="广东卫视",广东台经典剧
+http://192.168.1.7:5678/gdtv.php?id=gdjdj
+#EXTINF:-1 tvg-id="" tvg-name="GRTN健康频道" tvg-logo="" group-title="广东卫视",GRTN健康频道
+http://192.168.1.7:5678/gdtv.php?id=gdjk
+#EXTINF:-1 tvg-id="" tvg-name="GRTN文化频道" tvg-logo="" group-title="广东卫视",GRTN文化频道
+http://192.168.1.7:5678/gdtv.php?id=gdwh
+#EXTINF:-1 tvg-id="" tvg-name="GRTN生活频道" tvg-logo="" group-title="广东卫视",GRTN生活频道
+http://192.168.1.7:5678/gdtv.php?id=gdsh
+
+
+#EXTINF:-1 group-title="广东频道",广东卫视4K
+http://192.168.1.7:5678/gdtv.php?id=2567
+#EXTINF:-1 group-title="广东频道",广东卫视
+http://192.168.1.7:5678/gdtv.php?id=1182
+#EXTINF:-1 group-title="广东频道",广东珠江
+http://192.168.1.7:5678/gdtv.php?id=1183
+
+#EXTINF:-1 group-title="广东频道",大湾区卫视
+http://192.168.1.7:5678/gdtv.php?id=1197
+
+#EXTINF:-1 group-title="广东频道",广东4K超高清
+http://192.168.1.7:5678/gdtv.php?id=1198
+
+#EXTINF:-1 group-title="广东频道",广东新闻
+http://192.168.1.7:5678/gdtv.php?id=1186
+
+#EXTINF:-1 group-title="广东频道",广东体育
+http://192.168.1.7:5678/gdtv.php?id=1184
+
+#EXTINF:-1 group-title="广东频道",广东民生
+http://192.168.1.7:5678/gdtv.php?id=1185
+
+#EXTINF:-1 group-title="广东频道",广东影视
+http://192.168.1.7:5678/gdtv.php?id=1199
+
+#EXTINF:-1 group-title="广东频道",嘉佳卡通
+http://192.168.1.7:5678/gdtv.php?id=1187
+
+#EXTINF:-1 group-title="广东频道",大湾区卫视（海外版）
+http://192.168.1.7:5678/gdtv.php?id=1191
+
+#EXTINF:-1 group-title="广东频道",广东少儿
+http://192.168.1.7:5678/gdtv.php?id=1200
+
+#EXTINF:-1 group-title="广东频道",广东移动
+http://192.168.1.7:5678/gdtv.php?id=2463
+
+#EXTINF:-1 group-title="广东频道",现代教育
+http://192.168.1.7:5678/gdtv.php?id=2436
+
+#EXTINF:-1 group-title="广东频道",岭南戏曲
+http://192.168.1.7:5678/gdtv.php?id=2510
+
+#EXTINF:-1 group-title="广东频道",广州综合
+http://192.168.1.7:5678/gdtv.php?id=1175
+
+#EXTINF:-1 group-title="广东频道",广州新闻
+http://192.168.1.7:5678/gdtv.php?id=1176
+
+#EXTINF:-1 group-title="广东频道",深圳卫视
+http://192.168.1.7:5678/gdtv.php?id=1206
+
+#EXTINF:-1 group-title="广东频道",东莞新闻综合
+http://192.168.1.7:5678/gdtv.php?id=2395
+
+#EXTINF:-1 group-title="广东频道",中山综合
+http://192.168.1.7:5678/gdtv.php?id=1239
+
+#EXTINF:-1 group-title="广东频道",江门综合
+http://192.168.1.7:5678/gdtv.php?id=1248
+
+#EXTINF:-1 group-title="广东频道",汕尾新闻综合
+http://192.168.1.7:5678/gdtv.php?id=1261
+
+#EXTINF:-1 group-title="广东频道",梅州综合
+http://192.168.1.7:5678/gdtv.php?id=2401
+
+#EXTINF:-1 group-title="广东频道",潮州新闻综合
+http://192.168.1.7:5678/gdtv.php?id=1224
+
+#EXTINF:-1 group-title="广东频道",河源综合
+http://192.168.1.7:5678/gdtv.php?id=2402
+
+#EXTINF:-1 group-title="广东频道",云浮综合
+http://192.168.1.7:5678/gdtv.php?id=2389
+
+#EXTINF:-1 group-title="广东频道",化州综合
+http://192.168.1.7:5678/gdtv.php?id=2440
+
+#EXTINF:-1 group-title="广东频道",海丰县广播电视台
+http://192.168.1.7:5678/gdtv.php?id=2413
+
+#EXTINF:-1 group-title="广东频道",英德新闻综合频道
+http://192.168.1.7:5678/gdtv.php?id=2447
+
+#EXTINF:-1 group-title="广东频道",阳春综合
+http://192.168.1.7:5678/gdtv.php?id=2458
+
+#EXTINF:-1 group-title="广东频道",广宁综合
+http://192.168.1.7:5678/gdtv.php?id=2414
+
+#EXTINF:-1 group-title="广东频道",惠东综合频道
+http://192.168.1.7:5678/gdtv.php?id=2404
+
+#EXTINF:-1 group-title="广东频道",乐昌电视台
+http://192.168.1.7:5678/gdtv.php?id=2503
+
+#EXTINF:-1 group-title="广东频道",普宁台
+http://192.168.1.7:5678/gdtv.php?id=2450
+
+#EXTINF:-1 group-title="广东频道",惠阳电视台
+http://192.168.1.7:5678/gdtv.php?id=2470
+
+#EXTINF:-1 group-title="广东频道",开平综合
+http://192.168.1.7:5678/gdtv.php?id=2405
+
+#EXTINF:-1 group-title="广东频道",工布江达县广播电视台
+http://192.168.1.7:5678/gdtv.php?id=2439
+
+#EXTINF:-1 group-title="广东频道",廉江台
+http://192.168.1.7:5678/gdtv.php?id=2445
+
+#EXTINF:-1 group-title="广东频道",鹤山综合
+http://192.168.1.7:5678/gdtv.php?id=2441
+
+#EXTINF:-1 group-title="广东频道",信宜综合
+http://192.168.1.7:5678/gdtv.php?id=2471
+
+#EXTINF:-1 group-title="广东频道",怀集综合
+http://192.168.1.7:5678/gdtv.php?id=2462
+
+#EXTINF:-1 group-title="广东频道",徐闻台
+http://192.168.1.7:5678/gdtv.php?id=2474
+
+#EXTINF:-1 group-title="广东频道",遂溪台
+http://192.168.1.7:5678/gdtv.php?id=2488
+
+#EXTINF:-1 group-title="广东频道",阳西综合
+http://192.168.1.7:5678/gdtv.php?id=2476
+
+#EXTINF:-1 group-title="广东频道",台山台
+http://192.168.1.7:5678/gdtv.php?id=2479
+
+#EXTINF:-1 group-title="广东频道",新会综合
+http://192.168.1.7:5678/gdtv.php?id=2490
+
+#EXTINF:-1 group-title="广东频道",潮安综合
+http://192.168.1.7:5678/gdtv.php?id=2523
+
+#EXTINF:-1 group-title="广东频道",连州综合
+http://192.168.1.7:5678/gdtv.php?id=2455
+
+#EXTINF:-1 group-title="广东频道",连平台
+http://192.168.1.7:5678/gdtv.php?id=2520
+
+#EXTINF:-1 group-title="广东频道",东源频道
+http://192.168.1.7:5678/gdtv.php?id=2497
+
+#EXTINF:-1 group-title="广东频道",罗定综合
+http://192.168.1.7:5678/gdtv.php?id=2491
+
+#EXTINF:-1 group-title="广东频道",吴川综合
+http://192.168.1.7:5678/gdtv.php?id=2499
+
+#EXTINF:-1 group-title="广东频道",紫金台
+http://192.168.1.7:5678/gdtv.php?id=2452
+
