@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-14 20:30:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-15 10:36:14,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -510,6 +510,9 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 杭州影视,http://hs.imyjy.cn:7088/rtp/233.50.201.176:5140
 杭州导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
 杭州导视,http://hs.imyjy.cn:7088/rtp/233.50.201.182:5140
+NBTV-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8?fmt=ts2hls
+NBTV-2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8?fmt=ts2hls
+NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/index.m3u8?fmt=ts2hls
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-7.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-3.ctv
@@ -624,6 +627,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 上海外语,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 上海外语,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 上海外语,https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1776162057&key=724d519a443029a6b4cb62441534c2e9
+上海外语,https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1776210657&key=31f94c8b0b19bdebbd7f290d2b45f999
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-3.m3u8
 上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20250919080134d0a4f61e680b4d1b8d2460b858ff1fec&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c6e37e6787e81aeb250c874ff8533137&ddCalcu=7c36e1e13313705e86f7f8477e88c10a5e2b
@@ -792,6 +796,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1776162057&key=f2a56964de5c70be0df79bedd82aa4c5
+江苏体育,https://live.lalifeier.eu.org/jstv/jsty.m3u8?t=1776210657&key=9b007ed1a25b068207a5c0e56ed2d971
 江苏公共,http://iptv.666230.xyz/iptv/jsyd.php/G_JSGG
 江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
@@ -1287,7 +1292,9 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 洛阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1776162057&key=10320aac14e53418104e29021c40f1dd
+河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1776210657&key=8272020b2b0d09371524b8e8d9b3d1df
 河南民生,https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1776162057&key=ed6ea88e0e7be802de8325bf74cbd2c1
+河南民生,https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1776210657&key=7dc563c3db555d726a9b5c7ccf9433a2
 沁阳新闻综合,https://stream1.freetv.fun/qin-yang-xin-wen-zong-he-1.m3u8
 沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
@@ -1465,9 +1472,13 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 
 ☘️山西频道,#genre#
 山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1776162057&key=e39767fea4eacafb6b8f746bebb4efd1
+山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1776210657&key=afc8d51dd9ac96ee994d75691b97280c
 山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1776162057&key=9e3d311a44a9352b19e3d437a5b32e78
+山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1776210657&key=e038edf5e5260523836049b08c5de7ef
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1776162057&key=c4f37bbe1a2021b1289cb2cd356de5ef
+山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1776210657&key=bd3b235c8c8947a58db50b39c29eea08
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1776162057&key=f9c8e4648c49172c4f53a15ee0382bd2
+山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1776210657&key=76d1d5c0857ea9a4773620c77df033eb
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-5.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8
@@ -1479,6 +1490,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 安徽国际,https://stream1.freetv.fun/an-hui-guo-ji-16.m3u8
 安徽国际,https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
 安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1776162057&key=18a3028e19e06679c713a4b066b17200
+安徽国际,https://live.lalifeier.eu.org/ahtv/ahgj.m3u8?t=1776210657&key=cc8a3592f1472d08730465d0eefc29c8
 安徽影视,https://stream1.freetv.fun/an-hui-ying-shi-14.m3u8
 安徽影视,https://stream1.freetv.fun/an-hui-ying-shi-15.m3u8
 安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
@@ -1486,6 +1498,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 安徽影视,https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 安徽经济生活,https://stream1.freetv.fun/an-hui-jing-ji-sheng-huo-4.ctv
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1776162057&key=90d4a191f48e41ee27a21cf5d67864d6
+安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1776210657&key=7148022c824b18413fd9cc6acc806bce
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746292937&key=940b0f98a121c28884c74971efaac4de
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1746307365&key=6b104d1fc66c5b34b63d0e19c627e0f9
@@ -1528,8 +1541,11 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 延边卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
 延边卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227607/index.m3u8
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1776162057&key=fa1671f9c94facf91fdcfc56271e8c94
+吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1776210657&key=25ca17d957d8102c4409a17375f0f867
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1776162057&key=f957f200b9b43d06825aef661fdd46a7
+吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1776210657&key=4b87307ec4d87010d561d050c8ec526b
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1776162057&key=778c00dc97ea85c916932d900b81cf60
+吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1776210657&key=1447e8c35e05475f2bf8fd0f7420ae11
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 珲春新闻综合,https://stream1.freetv.fun/hun-chun-xin-wen-zong-he-3.m3u8
@@ -1547,9 +1563,12 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1776162057&key=01f9fba7fb7da9a4f426d5a426c1515c
+云南都市,https://live.lalifeier.eu.org/yntv/ynds.m3u8?t=1776210657&key=e876e5b4b7d2a8e6924f0ae165a13880
 云南娱乐,https://stream1.freetv.fun/1e519db50efc47898d28b361b278dd74438de87cd84222210bb38c2e60968666.m3u8
 云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1776162057&key=9b6ae8e140e61593e8f5549099f776a1
+云南娱乐,https://live.lalifeier.eu.org/yntv/ynyl.m3u8?t=1776210657&key=cd790339796ce8afc04c46a6a358110d
 云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1776162057&key=d4e77ef0805e8ea9bcc0b010de4b0589
+云南少儿,https://live.lalifeier.eu.org/yntv/ynse.m3u8?t=1776210657&key=3073cc7b2ae4a3966bc3841972cc92c6
 
 ☘️青海频道,#genre#
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
